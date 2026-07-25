@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Reshiram",
+    "types": ["Fire", "Dragon"],
+    "raidType": "Fire",
+    "tier": "S",
+    "moveset": {
+      "fast": "Fire Fang",
+      "charged": "Fusion Flare"
+    }
+  },
+  {
+    "name": "Darmanitan",
+    "types": ["Fire"],
+    "raidType": "Fire",
+    "tier": "A",
+    "moveset": {
+      "fast": "Fire Fang",
+      "charged": "Overheat"
+    }
+  },
+  {
+    "name": "Kyogre",
+    "types": ["Water"],
+    "raidType": "Water",
+    "tier": "S",
+    "moveset": {
+      "fast": "Waterfall",
+      "charged": "Origin Pulse"
+    }
+  },
+  {
+    "name": "Swampert",
+    "types": ["Water", "Ground"],
+    "raidType": "Water",
+    "tier": "A",
+    "moveset": {
+      "fast": "Water Gun",
+      "charged": "Hydro Cannon"
+    }
+  },
+  {
+    "name": "Zekrom",
+    "types": ["Electric", "Dragon"],
+    "raidType": "Electric",
+    "tier": "S",
+    "moveset": {
+      "fast": "Charge Beam",
+      "charged": "Fusion Bolt"
+    }
+  },
+  {
+    "name": "Xurkitree",
+    "types": ["Electric"],
+    "raidType": "Electric",
+    "tier": "A",
+    "moveset": {
+      "fast": "Thunder Shock",
+      "charged": "Discharge"
+    }
+  },
+  {
+    "name": "Kartana",
+    "types": ["Grass", "Steel"],
+    "raidType": "Grass",
+    "tier": "S",
+    "moveset": {
+      "fast": "Razor Leaf",
+      "charged": "Leaf Blade"
+    }
+  },
+  {
+    "name": "Roserade",
+    "types": ["Grass", "Poison"],
+    "raidType": "Grass",
+    "tier": "A",
+    "moveset": {
+      "fast": "Razor Leaf",
+      "charged": "Grass Knot"
+    }
+  },
+  {
+    "name": "Baxcalibur",
+    "types": ["Dragon", "Ice"],
+    "raidType": "Ice",
+    "tier": "S",
+    "moveset": {
+      "fast": "Ice Fang",
+      "charged": "Avalanche"
+    }
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "types": ["Ice"],
+    "raidType": "Ice",
+    "tier": "A",
+    "moveset": {
+      "fast": "Ice Fang",
+      "charged": "Avalanche"
+    }
+  }
+]
