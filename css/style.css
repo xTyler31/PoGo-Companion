@@ -1,12 +1,8 @@
 body {
 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-
     margin: 0;
-
-    background:
-    linear-gradient(180deg, #dcecff 0%, #f6f9ff 35%, #ffffff 100%);
-
+    background: linear-gradient(180deg, #dcecff 0%, #f7faff 45%, #ffffff 100%);
     color: #1c1c1e;
 
 }
@@ -15,7 +11,6 @@ body {
 header {
 
     padding: 45px 20px 30px;
-
     text-align: center;
 
 }
@@ -24,29 +19,13 @@ header {
 header h1 {
 
     margin: 0;
-
     font-size: 42px;
-
     font-weight: 800;
-
     letter-spacing: -1.5px;
-
     color: #1d4ed8;
 
-    text-shadow:
-    0 3px 10px rgba(29,78,216,0.15);
-
 }
 
-
-header h1 {
-
-    margin: 0;
-    font-size: 36px;
-    font-weight: 800;
-    letter-spacing: -1px;
-
-}
 
 
 main {
@@ -57,13 +36,6 @@ main {
 
 }
 
-
-
-.search-section {
-
-    margin-bottom: 35px;
-
-}
 
 
 .search-section input {
@@ -81,8 +53,7 @@ main {
 
     font-size: 17px;
 
-    box-shadow:
-    0 8px 25px rgba(0,0,0,0.08);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
 
 }
 
@@ -91,7 +62,7 @@ main {
 h2 {
 
     font-size: 22px;
-    margin-bottom: 18px;
+    margin-top: 35px;
 
 }
 
@@ -100,9 +71,7 @@ h2 {
 .type-grid {
 
     display: grid;
-
-    grid-template-columns: repeat(2, 1fr);
-
+    grid-template-columns: repeat(2,1fr);
     gap: 16px;
 
 }
@@ -114,95 +83,98 @@ h2 {
     height: 90px;
 
     display: flex;
-
     align-items: center;
-
     justify-content: center;
 
     border-radius: 24px;
 
     font-size: 18px;
-
     font-weight: 700;
 
-    color: white;
+    color:white;
 
-    box-shadow:
-    0 8px 20px rgba(0,0,0,0.12);
-
-    transition: transform 0.2s;
-
-}
-
-
-.type:hover {
-
-    transform: translateY(-3px);
+    box-shadow:0 8px 20px rgba(0,0,0,0.12);
 
 }
 
 
 
-/* Pokémon Type Colours */
+/* Pokémon Types */
 
+
+.normal {
+background:#A8A878;
+}
 
 .fire {
-
-    background: linear-gradient(135deg,#f08030,#ff9f43);
-
+background:#F08030;
 }
-
 
 .water {
-
-    background: linear-gradient(135deg,#6890f0,#4aa3ff);
-
+background:#6890F0;
 }
-
-
-.dragon {
-
-    background: linear-gradient(135deg,#7038f8,#9b59ff);
-
-}
-
-
-.ice {
-
-    background: linear-gradient(135deg,#98d8d8,#6edff6);
-
-    color:#1c1c1e;
-
-}
-
-
-.fighting {
-
-    background: linear-gradient(135deg,#c03028,#e74c3c);
-
-}
-
 
 .electric {
-
-    background: linear-gradient(135deg,#f8d030,#ffd966);
-
-    color:#1c1c1e;
-
+background:#F8D030;
+color:#111;
 }
 
+.grass {
+background:#78C850;
+}
+
+.ice {
+background:#98D8D8;
+color:#111;
+}
+
+.fighting {
+background:#C03028;
+}
+
+.poison {
+background:#A040A0;
+}
 
 .ground {
-
-    background: linear-gradient(135deg,#e0c068,#c19a6b);
-
+background:#E0C068;
 }
 
+.flying {
+background:#A890F0;
+}
+
+.psychic {
+background:#F85888;
+}
+
+.bug {
+background:#A8B820;
+}
+
+.rock {
+background:#B8A038;
+}
+
+.ghost {
+background:#705898;
+}
+
+.dragon {
+background:#7038F8;
+}
+
+.dark {
+background:#705848;
+}
 
 .steel {
+background:#B8B8D0;
+color:#111;
+}
 
-    background: linear-gradient(135deg,#b8b8d0,#8e9aaf);
-
+.fairy {
+background:#EE99AC;
 }
 
 
@@ -211,91 +183,12 @@ h2 {
 
     background:white;
 
-    margin-top:20px;
-
     padding:22px;
 
     border-radius:24px;
 
-    box-shadow:
+    margin-top:20px;
 
-    0 8px 25px rgba(0,0,0,0.08);
-
-}
-
-
-
-.card h3 {
-
-    margin-top:0;
-
-}
-
-.normal {
-
-    background: linear-gradient(135deg,#A8A878,#C6C6A7);
-
-}
-
-
-.grass {
-
-    background: linear-gradient(135deg,#78C850,#A7DB8D);
-
-}
-
-
-.poison {
-
-    background: linear-gradient(135deg,#A040A0,#C183C1);
-
-}
-
-
-.flying {
-
-    background: linear-gradient(135deg,#A890F0,#C6B7FF);
-
-}
-
-
-.psychic {
-
-    background: linear-gradient(135deg,#F85888,#FF9AAA);
-
-}
-
-
-.bug {
-
-    background: linear-gradient(135deg,#A8B820,#C6D16E);
-
-}
-
-
-.rock {
-
-    background: linear-gradient(135deg,#B8A038,#D1C17D);
-
-}
-
-
-.ghost {
-
-    background: linear-gradient(135deg,#705898,#A292BC);
-
-}
-
-
-.dark {
-
-    background: linear-gradient(135deg,#705848,#A29288);
-
-}
-
-
-.fairy {
-
-    background: linear-gradient(135deg,#EE99AC,#F4BDC8);
+    box-shadow:0 8px 25px rgba(0,0,0,0.08);
 
 }
