@@ -1,19 +1,17 @@
 body {
 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    background: #f5f5f7;
     margin: 0;
-    color: #111;
+    background: linear-gradient(180deg, #eef5ff 0%, #f7f7fa 45%, #ffffff 100%);
+    color: #1c1c1e;
 
 }
 
 
 header {
 
-    background: white;
-    padding: 35px 20px;
+    padding: 35px 20px 25px;
     text-align: center;
-    border-bottom: 1px solid #ddd;
 
 }
 
@@ -21,58 +19,47 @@ header {
 header h1 {
 
     margin: 0;
-    font-size: 34px;
-    font-weight: 700;
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: -1px;
 
 }
-
-
-header p {
-
-    margin-top: 8px;
-    color: #666;
-
-}
-
 
 
 main {
 
     padding: 20px;
+    max-width: 600px;
+    margin: auto;
 
 }
 
 
 
-.search-box {
+.search-section {
 
-    display: flex;
-    gap: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
 
 }
 
 
-.search-box input {
+.search-section input {
 
-    flex: 1;
-    padding: 15px;
-    border-radius: 16px;
+    width: 100%;
+    box-sizing: border-box;
+
+    padding: 18px 20px;
+
+    border-radius: 20px;
+
     border: none;
+
     background: white;
-    font-size: 16px;
 
-}
+    font-size: 17px;
 
-
-.search-box button {
-
-    padding: 15px 20px;
-    border-radius: 16px;
-    border: none;
-    background: #111;
-    color: white;
-    font-weight: 600;
+    box-shadow:
+    0 8px 25px rgba(0,0,0,0.08);
 
 }
 
@@ -80,7 +67,8 @@ main {
 
 h2 {
 
-    margin-top: 30px;
+    font-size: 22px;
+    margin-bottom: 18px;
 
 }
 
@@ -89,8 +77,10 @@ h2 {
 .type-grid {
 
     display: grid;
+
     grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
+
+    gap: 16px;
 
 }
 
@@ -98,60 +88,97 @@ h2 {
 
 .type {
 
-    padding: 25px 15px;
-    border-radius: 22px;
-    text-align: center;
+    height: 90px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border-radius: 24px;
+
+    font-size: 18px;
+
     font-weight: 700;
+
     color: white;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+
+    box-shadow:
+    0 8px 20px rgba(0,0,0,0.12);
+
+    transition: transform 0.2s;
+
+}
+
+
+.type:hover {
+
+    transform: translateY(-3px);
 
 }
 
 
 
-/* Pokémon GO Type Colours */
+/* Pokémon Type Colours */
 
 
 .fire {
 
-    background: #F08030;
+    background: linear-gradient(135deg,#f08030,#ff9f43);
 
 }
 
 
 .water {
 
-    background: #6890F0;
+    background: linear-gradient(135deg,#6890f0,#4aa3ff);
 
 }
 
 
 .dragon {
 
-    background: #7038F8;
-
-}
-
-
-.electric {
-
-    background: #F8D030;
-    color: #111;
+    background: linear-gradient(135deg,#7038f8,#9b59ff);
 
 }
 
 
 .ice {
 
-    background: #98D8D8;
-    color: #111;
+    background: linear-gradient(135deg,#98d8d8,#6edff6);
+
+    color:#1c1c1e;
 
 }
 
 
 .fighting {
 
-    background: #C03028;
+    background: linear-gradient(135deg,#c03028,#e74c3c);
+
+}
+
+
+.electric {
+
+    background: linear-gradient(135deg,#f8d030,#ffd966);
+
+    color:#1c1c1e;
+
+}
+
+
+.ground {
+
+    background: linear-gradient(135deg,#e0c068,#c19a6b);
+
+}
+
+
+.steel {
+
+    background: linear-gradient(135deg,#b8b8d0,#8e9aaf);
 
 }
 
@@ -159,10 +186,24 @@ h2 {
 
 .card {
 
-    background: white;
-    padding: 20px;
-    border-radius: 22px;
-    margin-top: 15px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    background:white;
+
+    margin-top:20px;
+
+    padding:22px;
+
+    border-radius:24px;
+
+    box-shadow:
+
+    0 8px 25px rgba(0,0,0,0.08);
+
+}
+
+
+
+.card h3 {
+
+    margin-top:0;
 
 }
