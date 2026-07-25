@@ -192,3 +192,53 @@ background:#EE99AC;
     box-shadow:0 8px 25px rgba(0,0,0,0.08);
 
 }
+
+.type-menu {
+
+    margin-top: 35px;
+
+}
+
+
+.type-menu summary {
+
+    list-style: none;
+
+    cursor: pointer;
+
+    text-align: center;
+
+    font-size: 34px;
+
+    font-weight: 800;
+
+    color: #1d4ed8;
+
+    padding: 25px 20px;
+
+}
+
+
+.type-menu summary::-webkit-details-marker {
+
+    display:none;
+
+}
+
+
+.type-menu summary span {
+
+    font-size: 24px;
+
+    margin-left: 8px;
+
+}
+
+
+.type-menu[open] summary span {
+
+    transform: rotate(180deg);
+
+    display:inline-block;
+
+}
