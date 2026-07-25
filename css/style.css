@@ -1,8 +1,12 @@
 body {
 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
     margin: 0;
-    background: linear-gradient(180deg, #eef5ff 0%, #f7f7fa 45%, #ffffff 100%);
+
+    background:
+    linear-gradient(180deg, #dcecff 0%, #f6f9ff 35%, #ffffff 100%);
+
     color: #1c1c1e;
 
 }
@@ -10,8 +14,27 @@ body {
 
 header {
 
-    padding: 35px 20px 25px;
+    padding: 45px 20px 30px;
+
     text-align: center;
+
+}
+
+
+header h1 {
+
+    margin: 0;
+
+    font-size: 42px;
+
+    font-weight: 800;
+
+    letter-spacing: -1.5px;
+
+    color: #1d4ed8;
+
+    text-shadow:
+    0 3px 10px rgba(29,78,216,0.15);
 
 }
 
@@ -205,5 +228,74 @@ h2 {
 .card h3 {
 
     margin-top:0;
+
+}
+
+.normal {
+
+    background: linear-gradient(135deg,#A8A878,#C6C6A7);
+
+}
+
+
+.grass {
+
+    background: linear-gradient(135deg,#78C850,#A7DB8D);
+
+}
+
+
+.poison {
+
+    background: linear-gradient(135deg,#A040A0,#C183C1);
+
+}
+
+
+.flying {
+
+    background: linear-gradient(135deg,#A890F0,#C6B7FF);
+
+}
+
+
+.psychic {
+
+    background: linear-gradient(135deg,#F85888,#FF9AAA);
+
+}
+
+
+.bug {
+
+    background: linear-gradient(135deg,#A8B820,#C6D16E);
+
+}
+
+
+.rock {
+
+    background: linear-gradient(135deg,#B8A038,#D1C17D);
+
+}
+
+
+.ghost {
+
+    background: linear-gradient(135deg,#705898,#A292BC);
+
+}
+
+
+.dark {
+
+    background: linear-gradient(135deg,#705848,#A29288);
+
+}
+
+
+.fairy {
+
+    background: linear-gradient(135deg,#EE99AC,#F4BDC8);
 
 }
