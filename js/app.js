@@ -58,54 +58,61 @@ function showType(type) {
 
 }
 
+document.addEventListener("DOMContentLoaded", function() {
+
 fetch("data/events.json")
 
 .then(response => response.json())
 
 .then(events => {
 
-  let eventCard = document.querySelector("#event-list");
+    let eventCard = document.getElementById("event-list");
 
 
-    eventCard.innerHTML = `
+    if (eventCard) {
 
-    <h3>Current & Upcoming Events</h3>
+        eventCard.innerHTML = `
 
-
-    ${events.map(event => `
-
-        <div class="event-card">
-
-            <h3>${event.name}</h3>
-
-            <p>
-            Type:
-            ${event.type}
-            </p>
+        <h3>Current & Upcoming Events</h3>
 
 
-            <p>
-            Start:
-            ${event.start}
-            </p>
+        ${events.map(event => `
+
+            <div class="event-card">
+
+                <h3>${event.name}</h3>
+
+                <p>
+                Type:
+                ${event.type}
+                </p>
 
 
-            <p>
-            End:
-            ${event.end}
-            </p>
+                <p>
+                Start:
+                ${event.start}
+                </p>
 
 
-            <p>
-            Bonus:
-            ${event.bonus}
-            </p>
-
-        </div>
+                <p>
+                End:
+                ${event.end}
+                </p>
 
 
-    `).join("")}
+                <p>
+                Bonus:
+                ${event.bonus}
+                </p>
 
-    `;
+            </div>
+
+        `).join("")}
+
+        `;
+
+    }
+
+});
 
 });
