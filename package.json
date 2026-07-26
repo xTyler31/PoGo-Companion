@@ -1,0 +1,9 @@
+{
+  "name": "pogo-companion",
+  "version": "1.0.0",
+  "description": "Automatic Pokémon GO event updater",
+  "main": "scripts/update-events.js",
+  "scripts": {
+    "update-events": "node scripts/update-events.js"
+  }
+}
