@@ -57,6 +57,94 @@ function showType(type) {
 
 
 }
+function showEvents(category) {
+
+    let eventCard = document.getElementById("event-list");
+
+
+    fetch("data/events.json")
+
+    .then(response => response.json())
+
+    .then(events => {
+
+
+        let now = new Date();
+
+
+        if (category === "live") {
+
+            events = events.filter(event => {
+
+                let start = new Date(event.start);
+                let end = new Date(event.end);
+
+                return now >= start && now <= end;
+
+            });
+
+
+        } else {
+
+            events = events.filter(event =>
+                event.category === category
+            );
+
+        }
+
+
+        if (events.length === 0) {
+
+            eventCard.innerHTML = `
+
+            <h3>No Events Found</h3>
+
+            <p>
+            No events currently match this category.
+            </p>
+
+            `;
+
+            return;
+
+        }
+
+
+        eventCard.innerHTML = `
+
+        <h3>Events</h3>
+
+
+        ${events.map(event => `
+
+        <div class="event-card">
+
+            <h3>${event.name}</h3>
+
+            <p>
+            ${event.type}
+            </p>
+
+            <p>
+            Start:
+            ${new Date(event.start).toLocaleString("en-GB")}
+            </p>
+
+            <p>
+            End:
+            ${new Date(event.end).toLocaleString("en-GB")}
+            </p>
+
+        </div>
+
+        `).join("")}
+
+        `;
+
+
+    });
+
+}
 
 document.addEventListener("DOMContentLoaded", function() {
 
