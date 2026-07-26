@@ -1,13 +1,13 @@
 [
   {
-    "name": "Pikachu Spotlight Hour",
-    "type": "Spotlight Hour",
-    "start": "2026-07-28T18:00:00",
-    "end": "2026-07-28T19:00:00",
-    "bonuses": [
-      "2× Catch XP"
-    ]
-  },
+  "name": "Pikachu Spotlight Hour",
+  "type": "Spotlight Hour",
+  "start": "2026-07-26T12:00:00",
+  "end": "2026-07-26T23:59:00",
+  "bonuses": [
+    "2× Catch XP"
+  ]
+},
   {
     "name": "Community Day Test Event",
     "type": "Community Day",
