@@ -90,13 +90,24 @@ function getCategory(event) {
     }
 
 
-    if (
-        text.includes("fest") ||
-        text.includes("season") ||
-        text.includes("ultra unlock")
-    ) {
-        return "special";
-    }
+  if (
+    text.includes("season") ||
+    text.includes("go pass") ||
+    text.includes("pass deluxe") ||
+    text.includes("forever forward")
+) {
+    return "season";
+}
+
+
+if (
+    text.includes("fest") ||
+    text.includes("ultra unlock") ||
+    text.includes("anniversary") ||
+    text.includes("crossover")
+) {
+    return "special";
+} 
 
 
     return "other";
