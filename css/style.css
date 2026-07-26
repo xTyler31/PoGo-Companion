@@ -245,3 +245,35 @@ background:#EE99AC;
     display:inline-block;
 
 }
+
+.event-menu {
+
+    margin-top: 35px;
+
+}
+
+
+.event-menu summary {
+
+    list-style: none;
+
+    cursor: pointer;
+
+    text-align: center;
+
+    font-size: 34px;
+
+    font-weight: 800;
+
+    color: #1d4ed8;
+
+    padding: 25px 20px;
+
+}
+
+
+.event-menu summary::-webkit-details-marker {
+
+    display: none;
+
+}
