@@ -66,6 +66,42 @@ fetch("data/events.json")
 
 .then(events => {
 
+
+events = events.filter(event => {
+
+    let now = new Date();
+
+    let end = new Date(event.end);
+
+    return end >= now;
+
+});
+
+
+events.sort((a, b) => {
+
+    let now = new Date();
+
+    let aStart = new Date(a.start);
+
+    let bStart = new Date(b.start);
+
+
+    let aLive = now >= aStart && now <= new Date(a.end);
+
+    let bLive = now >= bStart && now <= new Date(b.end);
+
+
+    if (aLive && !bLive) return -1;
+
+    if (!aLive && bLive) return 1;
+
+
+    return aStart - bStart;
+
+});
+
+
     let eventCard = document.getElementById("event-list");
 
 
