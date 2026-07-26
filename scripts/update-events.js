@@ -110,7 +110,7 @@ if (
 } 
 
 
-    return "other";
+    return "events";
 
 }
 
