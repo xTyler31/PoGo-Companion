@@ -1,5 +1,6 @@
 let pokemonData = [];
 
+let activeEventCategory = null;
 
 fetch("data/pokemon.json")
 
