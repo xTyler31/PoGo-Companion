@@ -1,0 +1,40 @@
+name: Update Pokémon GO Events
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+
+  workflow_dispatch:
+
+
+jobs:
+  update-events:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+
+      - name: Update events
+        run: npm run update-events
+
+
+      - name: Commit updated events
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add data/events.json
+
+          git commit -m "Update Pokémon GO events" || exit 0
+
+          git push
