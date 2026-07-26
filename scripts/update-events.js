@@ -44,6 +44,67 @@ function fetchEvents() {
 
 
 
+function getCategory(event) {
+
+    let text = (
+        event.name + " " +
+        event.eventType + " " +
+        event.heading
+    ).toLowerCase();
+
+
+    if (text.includes("raid")) {
+        return "raid";
+    }
+
+
+    if (text.includes("spotlight")) {
+        return "spotlight";
+    }
+
+
+    if (text.includes("community day")) {
+        return "community";
+    }
+
+
+    if (text.includes("research")) {
+        return "research";
+    }
+
+
+    if (
+        text.includes("max battle") ||
+        text.includes("dynamax") ||
+        text.includes("gigantamax")
+    ) {
+        return "max";
+    }
+
+
+    if (
+        text.includes("battle league") ||
+        text.includes("go battle")
+    ) {
+        return "gbl";
+    }
+
+
+    if (
+        text.includes("fest") ||
+        text.includes("season") ||
+        text.includes("ultra unlock")
+    ) {
+        return "special";
+    }
+
+
+    return "other";
+
+}
+
+
+
 function cleanEvents(events) {
 
     const now = new Date();
@@ -59,23 +120,25 @@ function cleanEvents(events) {
         })
 
 
-        .map(event => {
+.map(event => {
 
-            return {
+    return {
 
-                name: event.name,
+        name: event.name,
 
-                type: event.heading || event.eventType,
+        type: event.heading || event.eventType,
 
-                start: event.start,
+        category: getCategory(event),
 
-                end: event.end,
+        start: event.start,
 
-                bonuses: []
+        end: event.end,
 
-            };
+        bonuses: []
 
-        });
+    };
+
+});
 
 }
 
