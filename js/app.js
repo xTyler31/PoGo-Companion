@@ -68,6 +68,20 @@ function showEvents(category) {
     let eventCard = document.getElementById("event-list");
 
 
+    if (activeEventCategory === category) {
+
+        eventCard.innerHTML = "";
+
+        activeEventCategory = null;
+
+        return;
+
+    }
+
+
+    activeEventCategory = category;
+
+
     fetch("data/events.json")
 
 
