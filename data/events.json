@@ -98,7 +98,7 @@
   {
     "name": "GO Pass: July",
     "type": "GO Pass",
-    "category": "other",
+    "category": "season",
     "start": "2026-07-07T10:00:00.000",
     "end": "2026-08-04T10:00:00.000",
     "bonuses": []
@@ -346,7 +346,7 @@
   {
     "name": "Forever Forward",
     "type": "Season",
-    "category": "special",
+    "category": "season",
     "start": "2026-06-02T10:00:00.000",
     "end": "2026-09-08T10:00:00.000",
     "bonuses": []
@@ -354,7 +354,7 @@
   {
     "name": "GO Pass: August",
     "type": "GO Pass",
-    "category": "other",
+    "category": "season",
     "start": "2026-08-04T10:00:00.000",
     "end": "2026-09-08T10:00:00.000",
     "bonuses": []
