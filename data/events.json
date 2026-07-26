@@ -2,6 +2,7 @@
   {
     "name": "GO Fest 2026 Sunday Raid Makeup",
     "type": "Pokémon GO Fest",
+    "category": "raid",
     "start": "2026-07-26T10:00:00.000",
     "end": "2026-07-26T19:00:00.000",
     "bonuses": []
@@ -9,6 +10,7 @@
   {
     "name": "Ozone Ascent - Rayquaza Timed Research",
     "type": "Event",
+    "category": "research",
     "start": "2026-07-25T10:00:00.000",
     "end": "2026-07-26T20:00:00.000",
     "bonuses": []
@@ -16,6 +18,7 @@
   {
     "name": "Ultra Unlock: 10th Anniversary Edition",
     "type": "Event",
+    "category": "special",
     "start": "2026-07-21T10:00:00.000",
     "end": "2026-07-27T20:00:00.000",
     "bonuses": []
@@ -23,6 +26,7 @@
   {
     "name": "Dynamax Feebas during Max Monday",
     "type": "Max Mondays",
+    "category": "max",
     "start": "2026-07-27T06:00:00.000",
     "end": "2026-07-27T21:00:00.000",
     "bonuses": []
@@ -30,6 +34,7 @@
   {
     "name": "Great League, Ultra League, and Master League | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-07-21T20:00:00.000Z",
     "end": "2026-07-28T20:00:00.000Z",
     "bonuses": []
@@ -37,6 +42,7 @@
   {
     "name": "Mega Salamence in Mega Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-07-22T06:00:00.000",
     "end": "2026-07-28T22:00:00.000",
     "bonuses": []
@@ -44,6 +50,7 @@
   {
     "name": "Solgaleo in 5-star Raid Battles",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-07-22T06:00:00.000",
     "end": "2026-07-28T22:00:00.000",
     "bonuses": []
@@ -51,6 +58,7 @@
   {
     "name": "Kyurem Raid Hour",
     "type": "Raid Hour",
+    "category": "raid",
     "start": "2026-07-29T18:00:00.000",
     "end": "2026-07-29T19:00:00.000",
     "bonuses": []
@@ -58,6 +66,7 @@
   {
     "name": "Bidoof Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
     "start": "2026-07-30T18:00:00.000",
     "end": "2026-07-30T19:00:00.000",
     "bonuses": []
@@ -65,6 +74,7 @@
   {
     "name": "Gigantamax Rillaboom Max Battle Day",
     "type": "Max Battles",
+    "category": "max",
     "start": "2026-08-01T14:00:00.000",
     "end": "2026-08-01T17:00:00.000",
     "bonuses": []
@@ -72,6 +82,7 @@
   {
     "name": "Choose Your Path: Fairy Trail",
     "type": "Choose Your Path",
+    "category": "other",
     "start": "2026-07-28T10:00:00.000",
     "end": "2026-08-03T20:00:00.000",
     "bonuses": []
@@ -79,6 +90,7 @@
   {
     "name": "Dynamax Magmar during Max Monday",
     "type": "Max Mondays",
+    "category": "max",
     "start": "2026-08-03T06:00:00.000",
     "end": "2026-08-03T21:00:00.000",
     "bonuses": []
@@ -86,6 +98,7 @@
   {
     "name": "GO Pass: July",
     "type": "GO Pass",
+    "category": "other",
     "start": "2026-07-07T10:00:00.000",
     "end": "2026-08-04T10:00:00.000",
     "bonuses": []
@@ -93,6 +106,7 @@
   {
     "name": "Great League and Master Premier | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-07-28T20:00:00.000Z",
     "end": "2026-08-04T20:00:00.000Z",
     "bonuses": []
@@ -100,6 +114,7 @@
   {
     "name": "Shadow Palkia in Shadow Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-07-01T06:00:00.000",
     "end": "2026-08-04T22:00:00.000",
     "bonuses": []
@@ -107,6 +122,7 @@
   {
     "name": "Kyurem in 5-star Raid Battles",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-07-29T06:00:00.000",
     "end": "2026-08-04T22:00:00.000",
     "bonuses": []
@@ -114,6 +130,7 @@
   {
     "name": "Mega Aggron in Mega Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-07-29T06:00:00.000",
     "end": "2026-08-04T22:00:00.000",
     "bonuses": []
@@ -121,6 +138,7 @@
   {
     "name": "Uxie, Mesprit, and Azelf Raid Hour",
     "type": "Raid Hour",
+    "category": "raid",
     "start": "2026-08-05T18:00:00.000",
     "end": "2026-08-05T19:00:00.000",
     "bonuses": []
@@ -128,6 +146,7 @@
   {
     "name": "Fire and Ice Hatch Day",
     "type": "Event",
+    "category": "other",
     "start": "2026-08-08T11:00:00.000",
     "end": "2026-08-08T17:00:00.000",
     "bonuses": []
@@ -135,6 +154,7 @@
   {
     "name": "Summer Marathon: Arctic Embers",
     "type": "Event",
+    "category": "other",
     "start": "2026-08-04T10:00:00.000",
     "end": "2026-08-10T20:00:00.000",
     "bonuses": []
@@ -142,6 +162,7 @@
   {
     "name": "Dynamax Beldum during Max Monday",
     "type": "Max Mondays",
+    "category": "max",
     "start": "2026-08-10T06:00:00.000",
     "end": "2026-08-10T21:00:00.000",
     "bonuses": []
@@ -149,6 +170,7 @@
   {
     "name": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-08-04T20:00:00.000Z",
     "end": "2026-08-11T20:00:00.000Z",
     "bonuses": []
@@ -156,6 +178,7 @@
   {
     "name": "Mega Blaziken in Mega Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-05T06:00:00.000",
     "end": "2026-08-11T22:00:00.000",
     "bonuses": []
@@ -163,6 +186,7 @@
   {
     "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-05T06:00:00.000",
     "end": "2026-08-11T22:00:00.000",
     "bonuses": []
@@ -170,6 +194,7 @@
   {
     "name": "Groudon Raid Hour",
     "type": "Raid Hour",
+    "category": "raid",
     "start": "2026-08-12T18:00:00.000",
     "end": "2026-08-12T19:00:00.000",
     "bonuses": []
@@ -177,6 +202,7 @@
   {
     "name": "Nickit Community Day",
     "type": "Community Day",
+    "category": "community",
     "start": "2026-08-16T14:00:00.000",
     "end": "2026-08-16T17:00:00.000",
     "bonuses": []
@@ -184,6 +210,7 @@
   {
     "name": "Choose Your Path: Venom and Vines",
     "type": "Choose Your Path",
+    "category": "other",
     "start": "2026-08-11T10:00:00.000",
     "end": "2026-08-17T20:00:00.000",
     "bonuses": []
@@ -191,6 +218,7 @@
   {
     "name": "Dynamax Magikarp during Max Monday",
     "type": "Max Mondays",
+    "category": "max",
     "start": "2026-08-17T06:00:00.000",
     "end": "2026-08-17T21:00:00.000",
     "bonuses": []
@@ -198,6 +226,7 @@
   {
     "name": "Master League and Evolution Cup: Great League Edition | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-08-11T20:00:00.000Z",
     "end": "2026-08-18T20:00:00.000Z",
     "bonuses": []
@@ -205,6 +234,7 @@
   {
     "name": "Groudon in 5-star Raid Battles",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-12T06:00:00.000",
     "end": "2026-08-18T22:00:00.000",
     "bonuses": []
@@ -212,6 +242,7 @@
   {
     "name": "Mega Garchomp in Mega Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-12T06:00:00.000",
     "end": "2026-08-18T22:00:00.000",
     "bonuses": []
@@ -219,6 +250,7 @@
   {
     "name": "Lunala Raid Hour",
     "type": "Raid Hour",
+    "category": "raid",
     "start": "2026-08-19T18:00:00.000",
     "end": "2026-08-19T19:00:00.000",
     "bonuses": []
@@ -226,6 +258,7 @@
   {
     "name": "Starmie Super Mega Raid Day",
     "type": "Raid Day",
+    "category": "raid",
     "start": "2026-08-22T11:00:00.000",
     "end": "2026-08-22T17:00:00.000",
     "bonuses": []
@@ -233,6 +266,7 @@
   {
     "name": "Ultra Unlock: Water Festival",
     "type": "Event",
+    "category": "special",
     "start": "2026-08-18T10:00:00.000",
     "end": "2026-08-24T20:00:00.000",
     "bonuses": []
@@ -240,6 +274,7 @@
   {
     "name": "Dynamax Hitmontop during Max Monday",
     "type": "Max Mondays",
+    "category": "max",
     "start": "2026-08-24T06:00:00.000",
     "end": "2026-08-24T21:00:00.000",
     "bonuses": []
@@ -247,6 +282,7 @@
   {
     "name": "Great League and Scroll Cup: Great League Edition | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-08-18T20:00:00.000Z",
     "end": "2026-08-25T20:00:00.000Z",
     "bonuses": []
@@ -254,6 +290,7 @@
   {
     "name": "Lunala in 5-star Raid Battles",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-19T06:00:00.000",
     "end": "2026-08-25T22:00:00.000",
     "bonuses": []
@@ -261,6 +298,7 @@
   {
     "name": "Mega Swampert in Mega Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-19T06:00:00.000",
     "end": "2026-08-25T22:00:00.000",
     "bonuses": []
@@ -268,6 +306,7 @@
   {
     "name": "Regirock, Regice, and Registeel Raid Hour",
     "type": "Raid Hour",
+    "category": "raid",
     "start": "2026-08-26T18:00:00.000",
     "end": "2026-08-26T19:00:00.000",
     "bonuses": []
@@ -275,6 +314,7 @@
   {
     "name": "Pokémon XP &amp; 2026 Worlds",
     "type": "Event",
+    "category": "other",
     "start": "2026-08-25T10:00:00.000",
     "end": "2026-08-30T20:00:00.000",
     "bonuses": []
@@ -282,6 +322,7 @@
   {
     "name": "Dynamax Eevee during Max Monday",
     "type": "Max Mondays",
+    "category": "max",
     "start": "2026-08-31T06:00:00.000",
     "end": "2026-08-31T21:00:00.000",
     "bonuses": []
@@ -289,6 +330,7 @@
   {
     "name": "Great League, Ultra League, and Master League | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-08-25T20:00:00.000Z",
     "end": "2026-09-01T20:00:00.000Z",
     "bonuses": []
@@ -296,6 +338,7 @@
   {
     "name": "Regirock, Regice, and Registeel Raid Hour",
     "type": "Raid Hour",
+    "category": "raid",
     "start": "2026-09-02T18:00:00.000",
     "end": "2026-09-02T19:00:00.000",
     "bonuses": []
@@ -303,6 +346,7 @@
   {
     "name": "Forever Forward",
     "type": "Season",
+    "category": "special",
     "start": "2026-06-02T10:00:00.000",
     "end": "2026-09-08T10:00:00.000",
     "bonuses": []
@@ -310,6 +354,7 @@
   {
     "name": "GO Pass: August",
     "type": "GO Pass",
+    "category": "other",
     "start": "2026-08-04T10:00:00.000",
     "end": "2026-09-08T10:00:00.000",
     "bonuses": []
@@ -317,6 +362,7 @@
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
     "type": "GO Battle League",
+    "category": "gbl",
     "start": "2026-09-01T20:00:00.000Z",
     "end": "2026-09-08T20:00:00.000Z",
     "bonuses": []
@@ -324,6 +370,7 @@
   {
     "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-05T06:00:00.000",
     "end": "2026-09-08T22:00:00.000",
     "bonuses": []
@@ -331,6 +378,7 @@
   {
     "name": "Mega Gyarados in Mega Raids",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-26T06:00:00.000",
     "end": "2026-09-08T22:00:00.000",
     "bonuses": []
@@ -338,6 +386,7 @@
   {
     "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
     "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-08-26T06:00:00.000",
     "end": "2026-09-08T22:00:00.000",
     "bonuses": []
