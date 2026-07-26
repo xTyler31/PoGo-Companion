@@ -76,38 +76,57 @@ fetch("data/events.json")
         <h3>Current & Upcoming Events</h3>
 
 
-        ${events.map(event => `
+        ${events.map(event => {
 
-            <div class="event-card">
+let startDate = new Date(event.start);
 
-                <h3>${event.name}</h3>
-
-                <p>
-                Type:
-                ${event.type}
-                </p>
+let endDate = new Date(event.end);
 
 
-                <p>
-                Start:
-                ${event.start}
-                </p>
+return `
 
+<div class="event-card">
 
-                <p>
-                End:
-                ${event.end}
-                </p>
+<h3>${event.name}</h3>
 
+<p>
+${event.type}
+</p>
 
-                <p>
-                Bonus:
-                ${event.bonus}
-                </p>
+<p>
+${startDate.toLocaleDateString("en-GB", {
+weekday: "long",
+day: "numeric",
+month: "long",
+year: "numeric"
+})}
+</p>
 
-            </div>
+<p>
+${startDate.toLocaleTimeString("en-GB", {
+hour: "2-digit",
+minute: "2-digit"
+})}
+-
+${endDate.toLocaleTimeString("en-GB", {
+hour: "2-digit",
+minute: "2-digit"
+})}
+</p>
 
-        `).join("")}
+<p>
+<strong>Bonus</strong>
+</p>
+
+<p>
+${event.bonus}
+</p>
+
+</div>
+
+`;
+
+}).join("")}
 
         `;
 
