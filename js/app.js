@@ -64,7 +64,7 @@ fetch("data/events.json")
 
 .then(events => {
 
-    let eventCard = document.querySelector(".event-menu .card");
+  let eventCard = document.querySelector("#event-list");
 
 
     eventCard.innerHTML = `
