@@ -146,26 +146,6 @@ function showEvents(category) {
 
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-
-fetch("data/events.json")
-
-.then(response => response.json())
-
-.then(events => {
-
-
-events = events.filter(event => {
-
-    let now = new Date();
-
-    let end = new Date(event.end);
-
-    return end >= now;
-
-});
-
-
 events.sort((a, b) => {
 
     let now = new Date();
