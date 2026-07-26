@@ -119,7 +119,11 @@ minute: "2-digit"
 </p>
 
 <p>
-${event.bonus}
+
+${event.bonuses.map(bonus => `
+• ${bonus}<br>
+`).join("")}
+
 </p>
 
 </div>
