@@ -111,6 +111,16 @@ function showEvents(category) {
         }
 
 
+        events.sort((a, b) => {
+
+            let aStart = new Date(a.start);
+
+            let bStart = new Date(b.start);
+
+            return aStart - bStart;
+
+        });
+
 
 
         if (events.length === 0) {
