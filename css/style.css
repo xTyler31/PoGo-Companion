@@ -277,3 +277,47 @@ background:#EE99AC;
     display: none;
 
 }
+
+.event-card {
+
+    background: white;
+
+    border-radius: 16px;
+
+    padding: 18px;
+
+    margin-top: 15px;
+
+    border: 1px solid #e5e7eb;
+
+}
+
+.event-card h3 {
+
+    margin-top: 0;
+
+    margin-bottom: 10px;
+
+    color: #1d4ed8;
+
+    font-size: 20px;
+
+}
+
+.event-card p {
+
+    margin: 6px 0;
+
+    line-height: 1.5;
+
+}
+
+.event-card strong {
+
+    display: block;
+
+    margin-top: 12px;
+
+    color: #374151;
+
+}
