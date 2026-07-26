@@ -87,6 +87,24 @@ return `
 
 <div class="event-card">
 
+${(() => {
+
+let now = new Date();
+
+let start = new Date(event.start);
+
+let end = new Date(event.end);
+
+if (now >= start && now <= end) {
+
+return `<span class="event-live">LIVE</span>`;
+
+}
+
+return "";
+
+})()}
+
 <h3>${event.name}</h3>
 
 <p>
