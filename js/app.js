@@ -57,3 +57,55 @@ function showType(type) {
 
 
 }
+
+fetch("data/events.json")
+
+.then(response => response.json())
+
+.then(events => {
+
+    let eventCard = document.querySelector(".event-menu .card");
+
+
+    eventCard.innerHTML = `
+
+    <h3>Current & Upcoming Events</h3>
+
+
+    ${events.map(event => `
+
+        <div class="event-card">
+
+            <h3>${event.name}</h3>
+
+            <p>
+            Type:
+            ${event.type}
+            </p>
+
+
+            <p>
+            Start:
+            ${event.start}
+            </p>
+
+
+            <p>
+            End:
+            ${event.end}
+            </p>
+
+
+            <p>
+            Bonus:
+            ${event.bonus}
+            </p>
+
+        </div>
+
+
+    `).join("")}
+
+    `;
+
+});
