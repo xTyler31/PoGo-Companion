@@ -4,20 +4,28 @@
     "type": "Spotlight Hour",
     "start": "2026-07-28T18:00:00",
     "end": "2026-07-28T19:00:00",
-    "bonus": "2× Catch XP"
+    "bonuses": [
+      "2× Catch XP"
+    ]
   },
   {
     "name": "Community Day Test Event",
     "type": "Community Day",
     "start": "2026-08-01T14:00:00",
     "end": "2026-08-01T17:00:00",
-    "bonus": "3× Stardust"
+    "bonuses": [
+      "3× Stardust",
+      "Extended Lure Modules"
+    ]
   },
   {
     "name": "Five Star Raid Event",
     "type": "Raid Event",
     "start": "2026-08-05T10:00:00",
     "end": "2026-08-12T10:00:00",
-    "bonus": "Increased Raid Spawns"
+    "bonuses": [
+      "Increased Raid Spawns",
+      "Extra Raid Passes"
+    ]
   }
 ]
