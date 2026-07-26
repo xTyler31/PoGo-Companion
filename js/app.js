@@ -59,7 +59,7 @@ function showType(type) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-
+alert("Events script running");
 fetch("data/events.json")
 
 .then(response => response.json())
