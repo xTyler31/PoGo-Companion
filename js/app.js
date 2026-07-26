@@ -57,14 +57,21 @@ function showType(type) {
 
 
 }
+
+
+
+
 function showEvents(category) {
+
 
     let eventCard = document.getElementById("event-list");
 
 
     fetch("data/events.json")
 
+
     .then(response => response.json())
+
 
     .then(events => {
 
@@ -72,170 +79,198 @@ function showEvents(category) {
         let now = new Date();
 
 
+
         if (category === "live") {
+
 
             events = events.filter(event => {
 
+
                 let start = new Date(event.start);
+
                 let end = new Date(event.end);
 
+
                 return now >= start && now <= end;
+
 
             });
 
 
+
         } else {
 
+
             events = events.filter(event =>
+
                 event.category === category
+
             );
+
 
         }
 
 
+
+
         if (events.length === 0) {
+
 
             eventCard.innerHTML = `
 
+
             <h3>No Events Found</h3>
+
 
             <p>
             No events currently match this category.
             </p>
 
+
             `;
 
+
             return;
+
 
         }
 
 
+
+
         eventCard.innerHTML = `
+
 
         <h3>Events</h3>
 
 
-        ${events.map(event => `
 
-        <div class="event-card">
+        ${events.map(event => {
 
-            <h3>${event.name}</h3>
 
-            <p>
-            ${event.type}
-            </p>
+            let startDate = new Date(event.start);
 
-            <p>
-            Start:
-            ${new Date(event.start).toLocaleString("en-GB")}
-            </p>
+            let endDate = new Date(event.end);
 
-            <p>
-            End:
-            ${new Date(event.end).toLocaleString("en-GB")}
-            </p>
 
-        </div>
 
-        `).join("")}
+            let liveBadge = "";
+
+
+
+            if (now >= startDate && now <= endDate) {
+
+
+                liveBadge = `
+
+                <span class="event-live">
+                LIVE
+                </span>
+
+                `;
+
+            }
+
+
+
+
+            return `
+
+
+            <div class="event-card">
+
+
+                ${liveBadge}
+
+
+                <h3>
+                ${event.name}
+                </h3>
+
+
+
+                <p>
+                ${event.type}
+                </p>
+
+
+
+                <p>
+
+                Start:
+                ${startDate.toLocaleDateString("en-GB", {
+                    weekday: "long",
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric"
+                })}
+
+                </p>
+
+
+
+                <p>
+
+                Time:
+                ${startDate.toLocaleTimeString("en-GB", {
+                    hour: "2-digit",
+                    minute: "2-digit"
+                })}
+
+                -
+                
+                ${endDate.toLocaleTimeString("en-GB", {
+                    hour: "2-digit",
+                    minute: "2-digit"
+                })}
+
+                </p>
+
+
+
+                <p>
+                <strong>Bonus</strong>
+                </p>
+
+
+
+                <p>
+
+                ${
+                    event.bonuses && event.bonuses.length > 0
+
+                    ?
+
+                    event.bonuses.map(bonus =>
+
+                    `• ${bonus}<br>`
+
+                    ).join("")
+
+                    :
+
+                    "No bonuses listed"
+
+                }
+
+                </p>
+
+
+
+            </div>
+
+
+            `;
+
+
+        }).join("")}
+
+
 
         `;
 
 
     });
 
-}
-
-
-
-    let eventCard = document.getElementById("event-list");
-
-
-    if (eventCard) {
-
-        eventCard.innerHTML = `
-
-        <h3>Current & Upcoming Events</h3>
-
-
-        ${events.map(event => {
-
-let startDate = new Date(event.start);
-
-let endDate = new Date(event.end);
-
-
-return `
-
-<div class="event-card">
-
-${(() => {
-
-let now = new Date();
-
-let start = new Date(event.start);
-
-let end = new Date(event.end);
-
-if (now >= start && now <= end) {
-
-return `<span class="event-live">LIVE</span>`;
 
 }
-
-return "";
-
-})()}
-
-<h3>${event.name}</h3>
-
-<p>
-${event.type}
-</p>
-
-<p>
-${startDate.toLocaleDateString("en-GB", {
-weekday: "long",
-day: "numeric",
-month: "long",
-year: "numeric"
-})}
-</p>
-
-<p>
-${startDate.toLocaleTimeString("en-GB", {
-hour: "2-digit",
-minute: "2-digit"
-})}
--
-${endDate.toLocaleTimeString("en-GB", {
-hour: "2-digit",
-minute: "2-digit"
-})}
-</p>
-
-<p>
-<strong>Bonus</strong>
-</p>
-
-<p>
-
-${event.bonuses.map(bonus => `
-• ${bonus}<br>
-`).join("")}
-
-</p>
-
-</div>
-
-`;
-
-}).join("")}
-
-        `;
-
-    }
-
-});
-
-});
