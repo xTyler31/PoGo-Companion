@@ -1,21 +1,5 @@
 [
   {
-    "name": "GO Fest 2026 Sunday Raid Makeup",
-    "type": "Pokémon GO Fest",
-    "category": "raid",
-    "start": "2026-07-26T10:00:00.000",
-    "end": "2026-07-26T19:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Ozone Ascent - Rayquaza Timed Research",
-    "type": "Event",
-    "category": "research",
-    "start": "2026-07-25T10:00:00.000",
-    "end": "2026-07-26T20:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Ultra Unlock: 10th Anniversary Edition",
     "type": "Event",
     "category": "special",
