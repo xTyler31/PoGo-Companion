@@ -1,21 +1,5 @@
 [
   {
-    "name": "Ultra Unlock: 10th Anniversary Edition",
-    "type": "Event",
-    "category": "special",
-    "start": "2026-07-21T10:00:00.000",
-    "end": "2026-07-27T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Dynamax Feebas during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-07-27T06:00:00.000",
-    "end": "2026-07-27T21:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Great League, Ultra League, and Master League | Forever Forward",
     "type": "GO Battle League",
     "category": "gbl",
