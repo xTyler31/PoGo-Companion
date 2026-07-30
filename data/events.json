@@ -1,13 +1,5 @@
 [
   {
-    "name": "Kyurem Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-07-29T18:00:00.000",
-    "end": "2026-07-29T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Bidoof Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
