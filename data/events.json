@@ -1,13 +1,5 @@
 [
   {
-    "name": "Bidoof Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-07-30T18:00:00.000",
-    "end": "2026-07-30T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Gigantamax Rillaboom Max Battle Day",
     "type": "Max Battles",
     "category": "max",
