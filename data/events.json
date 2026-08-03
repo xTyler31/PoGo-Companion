@@ -64,6 +64,14 @@
     "bonuses": []
   },
   {
+    "name": "Delibird Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-08-06T18:00:00.000",
+    "end": "2026-08-06T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Fire and Ice Hatch Day",
     "type": "Event",
     "category": "events",
@@ -117,6 +125,14 @@
     "category": "raid",
     "start": "2026-08-12T18:00:00.000",
     "end": "2026-08-12T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Wurmple Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-08-13T18:00:00.000",
+    "end": "2026-08-13T19:00:00.000",
     "bonuses": []
   },
   {
@@ -176,6 +192,14 @@
     "bonuses": []
   },
   {
+    "name": "Magikarp Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-08-20T18:00:00.000",
+    "end": "2026-08-20T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Starmie Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
@@ -229,6 +253,14 @@
     "category": "raid",
     "start": "2026-08-26T18:00:00.000",
     "end": "2026-08-26T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mankey Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-08-27T18:00:00.000",
+    "end": "2026-08-27T19:00:00.000",
     "bonuses": []
   },
   {
@@ -317,6 +349,14 @@
     "category": "raid",
     "start": "2026-08-26T06:00:00.000",
     "end": "2026-09-08T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "LEGO Stores and Pokémon GO",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-08-03T10:00:00.000",
+    "end": "2026-09-30T23:59:00.000",
     "bonuses": []
   }
 ]
