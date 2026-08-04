@@ -1,29 +1,5 @@
 [
   {
-    "name": "Choose Your Path: Fairy Trail",
-    "type": "Choose Your Path",
-    "category": "events",
-    "start": "2026-07-28T10:00:00.000",
-    "end": "2026-08-03T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Dynamax Magmar during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-08-03T06:00:00.000",
-    "end": "2026-08-03T21:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "GO Pass: July",
-    "type": "GO Pass",
-    "category": "season",
-    "start": "2026-07-07T10:00:00.000",
-    "end": "2026-08-04T10:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Great League and Master Premier | Forever Forward",
     "type": "GO Battle League",
     "category": "gbl",
