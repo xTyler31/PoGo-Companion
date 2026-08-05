@@ -1,37 +1,5 @@
 [
   {
-    "name": "Great League and Master Premier | Forever Forward",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-07-28T20:00:00.000Z",
-    "end": "2026-08-04T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Shadow Palkia in Shadow Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-07-01T06:00:00.000",
-    "end": "2026-08-04T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Kyurem in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-07-29T06:00:00.000",
-    "end": "2026-08-04T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Aggron in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-07-29T06:00:00.000",
-    "end": "2026-08-04T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Uxie, Mesprit, and Azelf Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
