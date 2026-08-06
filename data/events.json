@@ -1,13 +1,5 @@
 [
   {
-    "name": "Uxie, Mesprit, and Azelf Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-08-05T18:00:00.000",
-    "end": "2026-08-05T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Delibird Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
@@ -208,7 +200,15 @@
     "bonuses": []
   },
   {
-    "name": "Pokémon XP &amp; 2026 Worlds",
+    "name": "Twitch Drops for 2026 Pokémon World Championships",
+    "type": "Research",
+    "category": "research",
+    "start": "2026-08-28T16:00:00.000Z",
+    "end": "2026-08-31T03:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "PokémonXP &amp; 2026 Worlds",
     "type": "Event",
     "category": "events",
     "start": "2026-08-25T10:00:00.000",
