@@ -1,13 +1,5 @@
 [
   {
-    "name": "Delibird Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-08-06T18:00:00.000",
-    "end": "2026-08-06T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Fire and Ice Hatch Day",
     "type": "Event",
     "category": "events",
