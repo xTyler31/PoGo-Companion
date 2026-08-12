@@ -1,29 +1,5 @@
 [
   {
-    "name": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-08-04T20:00:00.000Z",
-    "end": "2026-08-11T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Blaziken in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-05T06:00:00.000",
-    "end": "2026-08-11T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-05T06:00:00.000",
-    "end": "2026-08-11T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Groudon Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -208,11 +184,19 @@
     "bonuses": []
   },
   {
+    "name": "Mega Ascension",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-08-31T10:00:00.000",
+    "end": "2026-09-04T23:59:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Pokémon GO Fest 2026: Mega Finale",
     "type": "Pokémon GO Fest",
     "category": "special",
     "start": "2026-09-05T10:00:00.000",
-    "end": "2026-09-06T19:00:00.000",
+    "end": "2026-09-06T18:00:00.000",
     "bonuses": []
   },
   {
