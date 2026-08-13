@@ -1,13 +1,5 @@
 [
   {
-    "name": "Groudon Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-08-12T18:00:00.000",
-    "end": "2026-08-12T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Wurmple Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
@@ -197,6 +189,14 @@
     "category": "special",
     "start": "2026-09-05T10:00:00.000",
     "end": "2026-09-06T18:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+    "type": "Event",
+    "category": "research",
+    "start": "2026-08-12T16:00:00.000",
+    "end": "2026-09-06T23:59:00.000",
     "bonuses": []
   },
   {
