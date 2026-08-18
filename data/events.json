@@ -1,21 +1,5 @@
 [
   {
-    "name": "Choose Your Path: Venom and Vines",
-    "type": "Choose Your Path",
-    "category": "events",
-    "start": "2026-08-11T10:00:00.000",
-    "end": "2026-08-17T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Dynamax Magikarp during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-08-17T06:00:00.000",
-    "end": "2026-08-17T21:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Master League and Evolution Cup: Great League Edition | Forever Forward",
     "type": "GO Battle League",
     "category": "gbl",
