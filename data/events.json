@@ -1,13 +1,5 @@
 [
   {
-    "name": "Lunala Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-08-19T18:00:00.000",
-    "end": "2026-08-19T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Magikarp Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
