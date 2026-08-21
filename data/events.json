@@ -1,13 +1,5 @@
 [
   {
-    "name": "Magikarp Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-08-20T18:00:00.000",
-    "end": "2026-08-20T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Starmie Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
