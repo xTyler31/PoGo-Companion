@@ -1,13 +1,5 @@
 [
   {
-    "name": "Starmie Super Mega Raid Day",
-    "type": "Raid Day",
-    "category": "raid",
-    "start": "2026-08-22T11:00:00.000",
-    "end": "2026-08-22T17:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Ultra Unlock: Water Festival",
     "type": "Event",
     "category": "special",
