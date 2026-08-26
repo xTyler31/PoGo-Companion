@@ -1,29 +1,5 @@
 [
   {
-    "name": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-08-18T20:00:00.000Z",
-    "end": "2026-08-25T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Lunala in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-19T06:00:00.000",
-    "end": "2026-08-25T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Swampert in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-19T06:00:00.000",
-    "end": "2026-08-25T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Regirock, Regice, and Registeel Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -104,6 +80,14 @@
     "bonuses": []
   },
   {
+    "name": "Dynamax Ralts during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-09-07T06:00:00.000",
+    "end": "2026-09-07T21:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Forever Forward",
     "type": "Season",
     "category": "season",
@@ -152,11 +136,91 @@
     "bonuses": []
   },
   {
+    "name": "Zacian (Hero of Many Battles) Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-09-09T18:00:00.000",
+    "end": "2026-09-09T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Weedle, Kakuna, and Beedrill Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-09-10T18:00:00.000",
+    "end": "2026-09-10T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "September Community Day Classic",
     "type": "Community Day",
     "category": "community",
     "start": "2026-09-12T14:00:00.000",
     "end": "2026-09-12T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Houndour and Houndoom Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-09-13T18:00:00.000",
+    "end": "2026-09-13T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Squads",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-09-08T10:00:00.000",
+    "end": "2026-09-14T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Rhyhorn during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-09-14T06:00:00.000",
+    "end": "2026-09-14T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Beedrill in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-08T06:00:00.000",
+    "end": "2026-09-15T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-09T06:00:00.000",
+    "end": "2026-09-15T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Houndoom in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-11T06:00:00.000",
+    "end": "2026-09-15T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Zamazenta (Hero of Many Battles) Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-09-16T18:00:00.000",
+    "end": "2026-09-16T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mystery Pokémon Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-09-17T18:00:00.000",
+    "end": "2026-09-17T19:00:00.000",
     "bonuses": []
   },
   {
@@ -168,11 +232,91 @@
     "bonuses": []
   },
   {
+    "name": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-09-21T06:00:00.000",
+    "end": "2026-09-21T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Unannounced Event",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-09-16T10:00:00.000",
+    "end": "2026-09-22T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Venusaur in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-16T06:00:00.000",
+    "end": "2026-09-22T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-16T06:00:00.000",
+    "end": "2026-09-22T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-09-23T18:00:00.000",
+    "end": "2026-09-23T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Rattata Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-09-24T18:00:00.000",
+    "end": "2026-09-24T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Catch Mastery",
     "type": "Event",
     "category": "events",
     "start": "2026-09-26T10:00:00.000",
     "end": "2026-09-26T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Sobble during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-09-28T06:00:00.000",
+    "end": "2026-09-28T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Malamar in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-23T06:00:00.000",
+    "end": "2026-09-29T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-23T06:00:00.000",
+    "end": "2026-09-29T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Xerneas Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-09-30T18:00:00.000",
+    "end": "2026-09-30T19:00:00.000",
     "bonuses": []
   },
   {
@@ -189,6 +333,46 @@
     "category": "max",
     "start": "2026-10-03T14:00:00.000",
     "end": "2026-10-03T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Harvest Festival",
+    "type": "Event",
+    "category": "special",
+    "start": "2026-09-29T10:00:00.000",
+    "end": "2026-10-05T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "GO Pass: September",
+    "type": "GO Pass",
+    "category": "season",
+    "start": "2026-09-08T10:00:00.000",
+    "end": "2026-10-06T10:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-09T06:00:00.000",
+    "end": "2026-10-06T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Victreebel in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-30T06:00:00.000",
+    "end": "2026-10-06T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Xerneas in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-09-30T06:00:00.000",
+    "end": "2026-10-06T22:00:00.000",
     "bonuses": []
   },
   {
@@ -237,6 +421,14 @@
     "category": "raid",
     "start": "2026-11-28T14:00:00.000",
     "end": "2026-11-28T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Twilight Trails",
+    "type": "Season",
+    "category": "season",
+    "start": "2026-09-08T10:00:00.000",
+    "end": "2026-12-01T10:00:00.000",
     "bonuses": []
   }
 ]
