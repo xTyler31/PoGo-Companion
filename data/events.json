@@ -1,13 +1,5 @@
 [
   {
-    "name": "Mankey Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-08-27T18:00:00.000",
-    "end": "2026-08-27T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Twitch Drops for 2026 Pokémon World Championships",
     "type": "Research",
     "category": "research",
@@ -272,7 +264,7 @@
     "bonuses": []
   },
   {
-    "name": "Catch Mastery",
+    "name": "Phantump Catch Mastery",
     "type": "Event",
     "category": "events",
     "start": "2026-09-26T10:00:00.000",
