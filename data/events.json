@@ -8,6 +8,14 @@
     "bonuses": []
   },
   {
+    "name": "[San Francisco] 2026 Pokémon World Championships",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-08-28T17:00:00.000Z",
+    "end": "2026-08-31T03:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "PokémonXP &amp; 2026 Worlds",
     "type": "Event",
     "category": "events",
