@@ -1,29 +1,5 @@
 [
   {
-    "name": "Twitch Drops for 2026 Pokémon World Championships",
-    "type": "Research",
-    "category": "research",
-    "start": "2026-08-28T16:00:00.000Z",
-    "end": "2026-08-31T03:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "[San Francisco] 2026 Pokémon World Championships",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-08-28T17:00:00.000Z",
-    "end": "2026-08-31T03:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "PokémonXP &amp; 2026 Worlds",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-08-25T10:00:00.000",
-    "end": "2026-08-30T20:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Dynamax Eevee during Max Monday",
     "type": "Max Mondays",
     "category": "max",
@@ -59,6 +35,14 @@
     "name": "Pokémon GO Fest 2026: Mega Finale",
     "type": "Pokémon GO Fest",
     "category": "special",
+    "start": "2026-09-05T10:00:00.000",
+    "end": "2026-09-06T18:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Armored Mewtwo in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
     "start": "2026-09-05T10:00:00.000",
     "end": "2026-09-06T18:00:00.000",
     "bonuses": []
