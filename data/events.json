@@ -1,21 +1,5 @@
 [
   {
-    "name": "Dynamax Eevee during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-08-31T06:00:00.000",
-    "end": "2026-08-31T21:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Great League, Ultra League, and Master League | Forever Forward",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-08-25T20:00:00.000Z",
-    "end": "2026-09-01T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
     "name": "Regirock, Regice, and Registeel Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -80,14 +64,6 @@
     "bonuses": []
   },
   {
-    "name": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-09-01T20:00:00.000Z",
-    "end": "2026-09-08T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
     "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
     "type": "Raid Battles",
     "category": "raid",
@@ -128,7 +104,7 @@
     "bonuses": []
   },
   {
-    "name": "September Community Day Classic",
+    "name": "Gible Community Day Classic",
     "type": "Community Day",
     "category": "community",
     "start": "2026-09-12T14:00:00.000",
@@ -157,6 +133,14 @@
     "category": "max",
     "start": "2026-09-14T06:00:00.000",
     "end": "2026-09-14T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-09-08T20:00:00.000Z",
+    "end": "2026-09-15T20:00:00.000Z",
     "bonuses": []
   },
   {
@@ -216,6 +200,14 @@
     "bonuses": []
   },
   {
+    "name": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-09-15T20:00:00.000Z",
+    "end": "2026-09-22T20:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Unannounced Event",
     "type": "Event",
     "category": "events",
@@ -269,6 +261,14 @@
     "category": "max",
     "start": "2026-09-28T06:00:00.000",
     "end": "2026-09-28T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Ultra League, Master League: Mega Edition, and Retro Cup: Great League Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-09-22T20:00:00.000Z",
+    "end": "2026-09-29T20:00:00.000Z",
     "bonuses": []
   },
   {
@@ -328,6 +328,14 @@
     "bonuses": []
   },
   {
+    "name": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-09-29T20:00:00.000Z",
+    "end": "2026-10-06T20:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
     "type": "Raid Battles",
     "category": "raid",
@@ -360,11 +368,27 @@
     "bonuses": []
   },
   {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-10-06T20:00:00.000Z",
+    "end": "2026-10-13T20:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Hatch Day",
     "type": "Event",
     "category": "events",
     "start": "2026-10-17T11:00:00.000",
     "end": "2026-10-17T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-10-13T20:00:00.000Z",
+    "end": "2026-10-20T20:00:00.000Z",
     "bonuses": []
   },
   {
@@ -376,6 +400,14 @@
     "bonuses": []
   },
   {
+    "name": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-10-20T20:00:00.000Z",
+    "end": "2026-10-27T20:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
@@ -384,11 +416,43 @@
     "bonuses": []
   },
   {
+    "name": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-10-27T21:00:00.000Z",
+    "end": "2026-11-03T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-11-03T21:00:00.000Z",
+    "end": "2026-11-10T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-11-10T21:00:00.000Z",
+    "end": "2026-11-17T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "November Community Day",
     "type": "Community Day",
     "category": "community",
     "start": "2026-11-21T14:00:00.000",
     "end": "2026-11-21T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-11-18T21:00:00.000Z",
+    "end": "2026-11-25T21:00:00.000Z",
     "bonuses": []
   },
   {
@@ -405,6 +469,14 @@
     "category": "season",
     "start": "2026-09-08T10:00:00.000",
     "end": "2026-12-01T10:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-11-24T21:00:00.000Z",
+    "end": "2026-12-01T21:00:00.000Z",
     "bonuses": []
   }
 ]
