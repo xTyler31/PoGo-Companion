@@ -1,13 +1,5 @@
 [
   {
-    "name": "Regirock, Regice, and Registeel Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-09-02T18:00:00.000",
-    "end": "2026-09-02T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Mega Ascension",
     "type": "Event",
     "category": "events",
@@ -208,7 +200,7 @@
     "bonuses": []
   },
   {
-    "name": "Unannounced Event",
+    "name": "Pokémon Horizons: The Series Celebration Event",
     "type": "Event",
     "category": "events",
     "start": "2026-09-16T10:00:00.000",
