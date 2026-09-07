@@ -1,29 +1,5 @@
 [
   {
-    "name": "Pokémon GO Fest 2026: Mega Finale",
-    "type": "Pokémon GO Fest",
-    "category": "special",
-    "start": "2026-09-05T10:00:00.000",
-    "end": "2026-09-06T18:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Armored Mewtwo in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-05T10:00:00.000",
-    "end": "2026-09-06T18:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
-    "type": "Event",
-    "category": "research",
-    "start": "2026-08-12T16:00:00.000",
-    "end": "2026-09-06T23:59:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Dynamax Ralts during Max Monday",
     "type": "Max Mondays",
     "category": "max",
