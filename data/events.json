@@ -1,29 +1,5 @@
 [
   {
-    "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-05T06:00:00.000",
-    "end": "2026-09-08T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Gyarados in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-26T06:00:00.000",
-    "end": "2026-09-08T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-08-26T06:00:00.000",
-    "end": "2026-09-08T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Zacian (Hero of Many Battles) Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
