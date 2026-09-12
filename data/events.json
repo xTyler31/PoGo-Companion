@@ -200,6 +200,14 @@
     "bonuses": []
   },
   {
+    "name": "Patterns of the Wild",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-02T10:00:00.000",
+    "end": "2026-10-02T20:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Gigantamax Cinderace Max Battle Day",
     "type": "Max Battles",
     "category": "max",
