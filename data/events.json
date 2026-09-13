@@ -1,13 +1,5 @@
 [
   {
-    "name": "Gible Community Day Classic",
-    "type": "Community Day",
-    "category": "community",
-    "start": "2026-09-12T14:00:00.000",
-    "end": "2026-09-12T17:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Houndour and Houndoom Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
@@ -72,7 +64,7 @@
     "bonuses": []
   },
   {
-    "name": "Mystery Pokémon Spotlight Hour",
+    "name": "Charmander wearing Friede's goggles Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
     "start": "2026-09-17T18:00:00.000",
