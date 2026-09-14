@@ -1,13 +1,5 @@
 [
   {
-    "name": "Houndour and Houndoom Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-09-13T18:00:00.000",
-    "end": "2026-09-13T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Mega Squads",
     "type": "Event",
     "category": "events",
