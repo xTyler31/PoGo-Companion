@@ -1,37 +1,5 @@
 [
   {
-    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-09-08T20:00:00.000Z",
-    "end": "2026-09-15T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Beedrill in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-08T06:00:00.000",
-    "end": "2026-09-15T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-09T06:00:00.000",
-    "end": "2026-09-15T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Houndoom in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-11T06:00:00.000",
-    "end": "2026-09-15T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Zamazenta (Hero of Many Battles) Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
