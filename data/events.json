@@ -1,13 +1,5 @@
 [
   {
-    "name": "Zamazenta (Hero of Many Battles) Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-09-16T18:00:00.000",
-    "end": "2026-09-16T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Charmander wearing Friede's goggles Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
