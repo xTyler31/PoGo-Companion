@@ -1,13 +1,5 @@
 [
   {
-    "name": "Charmander wearing Friede's goggles Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-09-17T18:00:00.000",
-    "end": "2026-09-17T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Staraptor Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
@@ -136,6 +128,14 @@
     "bonuses": []
   },
   {
+    "name": "Seedot Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-10-01T18:00:00.000",
+    "end": "2026-10-01T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Patterns of the Wild",
     "type": "Event",
     "category": "events",
@@ -165,6 +165,14 @@
     "category": "special",
     "start": "2026-10-02T00:00:00.000",
     "end": "2026-10-05T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Sizzlipede during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-10-05T06:00:00.000",
+    "end": "2026-10-05T21:00:00.000",
     "bonuses": []
   },
   {
@@ -208,11 +216,43 @@
     "bonuses": []
   },
   {
+    "name": "Yveltal Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-10-07T18:00:00.000",
+    "end": "2026-10-07T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Elgyem Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-10-08T18:00:00.000",
+    "end": "2026-10-08T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Zorua Community Day",
     "type": "Community Day",
     "category": "community",
     "start": "2026-10-10T14:00:00.000",
     "end": "2026-10-10T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "???",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-04T00:00:00.000",
+    "end": "2026-10-10T23:59:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Rookidee during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-10-12T06:00:00.000",
+    "end": "2026-10-12T21:00:00.000",
     "bonuses": []
   },
   {
@@ -224,11 +264,59 @@
     "bonuses": []
   },
   {
+    "name": "Mega Blastoise in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-07T06:00:00.000",
+    "end": "2026-10-13T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Yveltal in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-07T06:00:00.000",
+    "end": "2026-10-13T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dialga Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-10-14T18:00:00.000",
+    "end": "2026-10-14T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Stufful Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-10-15T18:00:00.000",
+    "end": "2026-10-15T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Hatch Day",
     "type": "Event",
     "category": "events",
     "start": "2026-10-17T11:00:00.000",
     "end": "2026-10-17T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Sneasel during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-10-19T06:00:00.000",
+    "end": "2026-10-19T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Fall Marathon: Buddy Trek",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-13T00:00:00.000",
+    "end": "2026-10-19T23:59:00.000",
     "bonuses": []
   },
   {
@@ -240,11 +328,51 @@
     "bonuses": []
   },
   {
-    "name": "Max Battle Day",
+    "name": "Dialga in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-14T06:00:00.000",
+    "end": "2026-10-20T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Dragonite in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-14T06:00:00.000",
+    "end": "2026-10-20T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Palkia Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-10-21T18:00:00.000",
+    "end": "2026-10-21T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Morelull Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-10-22T18:00:00.000",
+    "end": "2026-10-22T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Max Battle Day",
     "type": "Max Battles",
     "category": "max",
     "start": "2026-10-24T14:00:00.000",
     "end": "2026-10-24T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Sableye during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-10-26T06:00:00.000",
+    "end": "2026-10-26T21:00:00.000",
     "bonuses": []
   },
   {
@@ -256,6 +384,38 @@
     "bonuses": []
   },
   {
+    "name": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-21T06:00:00.000",
+    "end": "2026-10-27T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Palkia in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-21T06:00:00.000",
+    "end": "2026-10-27T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Giratina (Origin Forme) Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-10-28T18:00:00.000",
+    "end": "2026-10-28T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Gastly Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-10-29T18:00:00.000",
+    "end": "2026-10-29T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
@@ -264,11 +424,51 @@
     "bonuses": []
   },
   {
+    "name": "Halloween 2026 Part I",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-27T00:00:00.000",
+    "end": "2026-10-31T23:59:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
     "start": "2026-10-27T21:00:00.000Z",
     "end": "2026-11-03T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-07T06:00:00.000",
+    "end": "2026-11-03T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Giratina (Origin Forme) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-28T06:00:00.000",
+    "end": "2026-11-03T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Sableye in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-28T06:00:00.000",
+    "end": "2026-11-03T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Halloween 2026 Part II",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-11-01T00:00:00.000",
+    "end": "2026-11-05T23:59:00.000",
     "bonuses": []
   },
   {
