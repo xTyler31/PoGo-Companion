@@ -24,6 +24,14 @@
     "bonuses": []
   },
   {
+    "name": "Pokémon Horizons Bonus Timed Research",
+    "type": "Research",
+    "category": "research",
+    "start": "2026-09-18T10:00:00.000",
+    "end": "2026-09-22T20:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Pokémon Horizons: The Series Celebration Event 2026",
     "type": "Event",
     "category": "events",
@@ -243,8 +251,8 @@
     "name": "???",
     "type": "Event",
     "category": "events",
-    "start": "2026-10-04T00:00:00.000",
-    "end": "2026-10-10T23:59:00.000",
+    "start": "2026-10-04T10:00:00.000",
+    "end": "2026-10-10T20:00:00.000",
     "bonuses": []
   },
   {
@@ -304,19 +312,19 @@
     "bonuses": []
   },
   {
+    "name": "Fall Marathon: Buddy Trek",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-13T10:00:00.000",
+    "end": "2026-10-19T20:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Dynamax Sneasel during Max Monday",
     "type": "Max Mondays",
     "category": "max",
     "start": "2026-10-19T06:00:00.000",
     "end": "2026-10-19T21:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Fall Marathon: Buddy Trek",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-10-13T00:00:00.000",
-    "end": "2026-10-19T23:59:00.000",
     "bonuses": []
   },
   {
@@ -427,8 +435,8 @@
     "name": "Halloween 2026 Part I",
     "type": "Event",
     "category": "events",
-    "start": "2026-10-27T00:00:00.000",
-    "end": "2026-10-31T23:59:00.000",
+    "start": "2026-10-27T10:00:00.000",
+    "end": "2026-10-31T20:00:00.000",
     "bonuses": []
   },
   {
@@ -467,8 +475,8 @@
     "name": "Halloween 2026 Part II",
     "type": "Event",
     "category": "events",
-    "start": "2026-11-01T00:00:00.000",
-    "end": "2026-11-05T23:59:00.000",
+    "start": "2026-11-01T10:00:00.000",
+    "end": "2026-11-05T20:00:00.000",
     "bonuses": []
   },
   {
