@@ -1,13 +1,5 @@
 [
   {
-    "name": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-09-21T06:00:00.000",
-    "end": "2026-09-21T21:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
@@ -240,11 +232,11 @@
     "bonuses": []
   },
   {
-    "name": "???",
+    "name": "World Space Week 2026",
     "type": "Event",
     "category": "events",
-    "start": "2026-10-04T10:00:00.000",
-    "end": "2026-10-10T20:00:00.000",
+    "start": "2026-10-04T00:00:00.000",
+    "end": "2026-10-10T23:59:00.000",
     "bonuses": []
   },
   {
