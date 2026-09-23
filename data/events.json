@@ -1,45 +1,5 @@
 [
   {
-    "name": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-09-15T20:00:00.000Z",
-    "end": "2026-09-22T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon Horizons Bonus Timed Research",
-    "type": "Research",
-    "category": "research",
-    "start": "2026-09-18T10:00:00.000",
-    "end": "2026-09-22T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon Horizons: The Series Celebration Event 2026",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-09-16T10:00:00.000",
-    "end": "2026-09-22T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Venusaur in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-16T06:00:00.000",
-    "end": "2026-09-22T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-16T06:00:00.000",
-    "end": "2026-09-22T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -421,6 +381,14 @@
     "category": "events",
     "start": "2026-10-27T10:00:00.000",
     "end": "2026-10-31T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "GO Pass: October",
+    "type": "GO Pass",
+    "category": "season",
+    "start": "2026-10-06T10:00:00.000",
+    "end": "2026-11-03T10:00:00.000",
     "bonuses": []
   },
   {
