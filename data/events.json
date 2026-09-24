@@ -1,13 +1,5 @@
 [
   {
-    "name": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-09-23T18:00:00.000",
-    "end": "2026-09-23T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Rattata Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
@@ -509,6 +501,38 @@
     "category": "gbl",
     "start": "2026-11-24T21:00:00.000Z",
     "end": "2026-12-01T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "adidas × Pokémon Timed Research",
+    "type": "Research",
+    "category": "research",
+    "start": "2026-09-25T00:00:00.000",
+    "end": "2027-01-15T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Pokémon GO Tour: Alola - Kaohsiung 2027",
+    "type": "Pokémon GO Tour",
+    "category": "events",
+    "start": "2027-02-18T16:00:00.000Z",
+    "end": "2027-02-21T15:59:59.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Pokémon GO Tour: Alola - Los Angeles 2027",
+    "type": "Pokémon GO Tour",
+    "category": "events",
+    "start": "2027-02-19T08:00:00.000Z",
+    "end": "2027-02-22T07:59:59.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Pokémon GO Tour: Alola - Global 2027",
+    "type": "Pokémon GO Tour",
+    "category": "events",
+    "start": "2027-02-27T00:00:00.000",
+    "end": "2027-02-28T23:59:59.000",
     "bonuses": []
   }
 ]
