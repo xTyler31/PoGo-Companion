@@ -1,13 +1,5 @@
 [
   {
-    "name": "Rattata Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-09-24T18:00:00.000",
-    "end": "2026-09-24T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Phantump Catch Mastery",
     "type": "Event",
     "category": "events",
@@ -240,7 +232,7 @@
     "bonuses": []
   },
   {
-    "name": "Hatch Day",
+    "name": "Sandile Hatch Day",
     "type": "Event",
     "category": "events",
     "start": "2026-10-17T11:00:00.000",
@@ -507,7 +499,7 @@
     "name": "adidas × Pokémon Timed Research",
     "type": "Research",
     "category": "research",
-    "start": "2026-09-25T00:00:00.000",
+    "start": "2026-09-25T10:00:00.000",
     "end": "2027-01-15T20:00:00.000",
     "bonuses": []
   },
