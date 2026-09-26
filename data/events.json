@@ -8,6 +8,46 @@
     "bonuses": []
   },
   {
+    "name": "Brisbane, Australia - Pokémon GO City Safari",
+    "type": "City Safari",
+    "category": "events",
+    "start": "2026-09-26T00:00:00.000Z",
+    "end": "2026-09-27T08:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Marseille, France - Pokémon GO City Safari",
+    "type": "City Safari",
+    "category": "events",
+    "start": "2026-09-26T08:00:00.000Z",
+    "end": "2026-09-27T16:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Munich, Germany - Pokémon GO City Safari",
+    "type": "City Safari",
+    "category": "events",
+    "start": "2026-09-26T08:00:00.000Z",
+    "end": "2026-09-27T16:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Lisbon, Portugal - Pokémon GO City Safari",
+    "type": "City Safari",
+    "category": "events",
+    "start": "2026-09-26T09:00:00.000Z",
+    "end": "2026-09-27T17:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "type": "City Safari",
+    "category": "events",
+    "start": "2026-09-26T13:00:00.000Z",
+    "end": "2026-09-27T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Choose Your Path: Twilight Trails",
     "type": "Choose Your Path",
     "category": "events",
