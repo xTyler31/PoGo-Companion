@@ -1,13 +1,5 @@
 [
   {
-    "name": "Seedot Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-10-01T18:00:00.000",
-    "end": "2026-10-01T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Patterns of the Wild",
     "type": "Event",
     "category": "events",
@@ -240,11 +232,19 @@
     "bonuses": []
   },
   {
-    "name": "Dynamax Max Battle Day",
+    "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
     "type": "Max Battles",
     "category": "max",
     "start": "2026-10-24T14:00:00.000",
     "end": "2026-10-24T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Minior Showers: Orionids 2026",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-19T17:00:00.000",
+    "end": "2026-10-24T23:59:00.000",
     "bonuses": []
   },
   {
@@ -400,6 +400,14 @@
     "bonuses": []
   },
   {
+    "name": "Minior Showers: Leonids 2026",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-11-14T17:00:00.000",
+    "end": "2026-11-19T23:59:00.000",
+    "bonuses": []
+  },
+  {
     "name": "November Community Day",
     "type": "Community Day",
     "category": "community",
@@ -440,6 +448,14 @@
     "bonuses": []
   },
   {
+    "name": "Minior Showers: Geminids 2026",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-12-11T17:00:00.000",
+    "end": "2026-12-16T23:59:00.000",
+    "bonuses": []
+  },
+  {
     "name": "adidas × Pokémon Timed Research",
     "type": "Research",
     "category": "research",
@@ -469,6 +485,30 @@
     "category": "events",
     "start": "2027-02-27T00:00:00.000",
     "end": "2027-02-28T23:59:59.000",
+    "bonuses": []
+  },
+  {
+    "name": "Minior Showers: Eta Aquariids 2027",
+    "type": "Event",
+    "category": "events",
+    "start": "2027-05-03T17:00:00.000",
+    "end": "2027-05-08T23:59:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Minior Showers: Southern Delta Aquariids 2027",
+    "type": "Event",
+    "category": "events",
+    "start": "2027-07-28T17:00:00.000",
+    "end": "2027-08-02T23:59:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Minior Showers: Perseids 2027",
+    "type": "Event",
+    "category": "events",
+    "start": "2027-08-10T17:00:00.000",
+    "end": "2027-08-15T23:59:00.000",
     "bonuses": []
   }
 ]
