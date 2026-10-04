@@ -1,13 +1,5 @@
 [
   {
-    "name": "Gigantamax Cinderace Max Battle Day",
-    "type": "Max Battles",
-    "category": "max",
-    "start": "2026-10-03T14:00:00.000",
-    "end": "2026-10-03T17:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Harvest Festival 2026: Applin Picking",
     "type": "Event",
     "category": "special",
@@ -480,7 +472,7 @@
     "bonuses": []
   },
   {
-    "name": "Pok��mon GO Tour: Alola - Global 2027",
+    "name": "Pokémon GO Tour: Alola - Global 2027",
     "type": "Pokémon GO Tour",
     "category": "events",
     "start": "2027-02-27T00:00:00.000",
