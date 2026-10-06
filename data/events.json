@@ -1,37 +1,5 @@
 [
   {
-    "name": "Harvest Festival 2026: Applin Picking",
-    "type": "Event",
-    "category": "special",
-    "start": "2026-09-29T10:00:00.000",
-    "end": "2026-10-05T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Harvest Festival: Taken Over",
-    "type": "Event",
-    "category": "special",
-    "start": "2026-10-02T00:00:00.000",
-    "end": "2026-10-05T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Dynamax Sizzlipede during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-10-05T06:00:00.000",
-    "end": "2026-10-05T21:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "GO Pass: September",
-    "type": "GO Pass",
-    "category": "season",
-    "start": "2026-09-08T10:00:00.000",
-    "end": "2026-10-06T10:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
@@ -296,11 +264,11 @@
     "bonuses": []
   },
   {
-    "name": "Halloween 2026 Part I",
+    "name": "Pokémon GO Halloween 2026 Part I",
     "type": "Event",
     "category": "events",
     "start": "2026-10-27T10:00:00.000",
-    "end": "2026-10-31T20:00:00.000",
+    "end": "2026-11-01T10:00:00.000",
     "bonuses": []
   },
   {
