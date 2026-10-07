@@ -1,37 +1,5 @@
 [
   {
-    "name": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-09-29T20:00:00.000Z",
-    "end": "2026-10-06T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-09T06:00:00.000",
-    "end": "2026-10-06T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Victreebel in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-30T06:00:00.000",
-    "end": "2026-10-06T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Xerneas in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-09-30T06:00:00.000",
-    "end": "2026-10-06T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Yveltal Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
