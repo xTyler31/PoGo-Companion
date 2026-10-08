@@ -1,13 +1,5 @@
 [
   {
-    "name": "Yveltal Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-10-07T18:00:00.000",
-    "end": "2026-10-07T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Elgyem Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
