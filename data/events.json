@@ -1,13 +1,5 @@
 [
   {
-    "name": "Elgyem Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-10-08T18:00:00.000",
-    "end": "2026-10-08T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Zorua Community Day",
     "type": "Community Day",
     "category": "community",
@@ -272,7 +264,7 @@
     "bonuses": []
   },
   {
-    "name": "Halloween 2026 Part II",
+    "name": "Pokémon GO Halloween 2026 Part II",
     "type": "Event",
     "category": "events",
     "start": "2026-11-01T10:00:00.000",
@@ -401,7 +393,7 @@
   },
   {
     "name": "Pokémon GO Tour: Alola - Global 2027",
-    "type": "Pokémon GO Tour",
+    "type": "Pok��mon GO Tour",
     "category": "events",
     "start": "2027-02-27T00:00:00.000",
     "end": "2027-02-28T23:59:59.000",
