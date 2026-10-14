@@ -1,29 +1,5 @@
 [
   {
-    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-10-06T20:00:00.000Z",
-    "end": "2026-10-13T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Blastoise in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-10-07T06:00:00.000",
-    "end": "2026-10-13T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Yveltal in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-10-07T06:00:00.000",
-    "end": "2026-10-13T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Dialga Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -184,7 +160,7 @@
     "bonuses": []
   },
   {
-    "name": "Super Mega Raid Day",
+    "name": "Chandelure Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
     "start": "2026-10-31T14:00:00.000",
