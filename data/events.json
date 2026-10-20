@@ -1,21 +1,5 @@
 [
   {
-    "name": "Fall Marathon: Buddy Trek",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-10-13T10:00:00.000",
-    "end": "2026-10-19T20:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Dynamax Sneasel during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-10-19T06:00:00.000",
-    "end": "2026-10-19T21:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
@@ -77,6 +61,14 @@
     "category": "events",
     "start": "2026-10-25T02:30:00.000Z",
     "end": "2026-10-25T06:59:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Pokémon Night Out 2026 - Los Angeles",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-10-25T02:30:00.000Z",
+    "end": "2026-10-25T06:59:59.000Z",
     "bonuses": []
   },
   {
@@ -160,6 +152,14 @@
     "bonuses": []
   },
   {
+    "name": "Dynamax Machop during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-11-02T06:00:00.000",
+    "end": "2026-11-02T21:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "GO Pass: October",
     "type": "GO Pass",
     "category": "season",
@@ -192,11 +192,19 @@
     "bonuses": []
   },
   {
-    "name": "Mega Sableye in Mega Raids",
-    "type": "Raid Battles",
+    "name": "Giratina (Altered Forme) Raid Hour",
+    "type": "Raid Hour",
     "category": "raid",
-    "start": "2026-10-28T06:00:00.000",
-    "end": "2026-11-03T22:00:00.000",
+    "start": "2026-11-04T18:00:00.000",
+    "end": "2026-11-04T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Teddiursa wearing a witch hat Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-11-05T18:00:00.000",
+    "end": "2026-11-05T19:00:00.000",
     "bonuses": []
   },
   {
@@ -224,11 +232,43 @@
     "bonuses": []
   },
   {
+    "name": "Mega Sableye in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-10-28T06:00:00.000",
+    "end": "2026-11-08T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Giratina (Altered Forme) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-04T06:00:00.000",
+    "end": "2026-11-08T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-04T06:00:00.000",
+    "end": "2026-11-08T22:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
     "start": "2026-11-03T21:00:00.000Z",
     "end": "2026-11-10T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Pokémon Night Out 2026 - London",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-11-10T18:00:00.000Z",
+    "end": "2026-11-10T22:30:00.000Z",
     "bonuses": []
   },
   {
@@ -248,11 +288,27 @@
     "bonuses": []
   },
   {
+    "name": "Max Monday: Pokémon to be announced",
+    "type": "Max Mondays",
+    "category": "events",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-11-16T21:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
     "start": "2026-11-10T21:00:00.000Z",
     "end": "2026-11-17T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Cresselia and Darkrai Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-11-18T18:00:00.000",
+    "end": "2026-11-18T19:00:00.000",
     "bonuses": []
   },
   {
@@ -272,6 +328,38 @@
     "bonuses": []
   },
   {
+    "name": "Dynamax Trails",
+    "type": "Event",
+    "category": "max",
+    "start": "2026-11-16T10:00:00.000",
+    "end": "2026-11-23T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Espurr during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-11-23T06:00:00.000",
+    "end": "2026-11-23T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Cresselia and Darkrai in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-11-24T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Banette in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-11-24T22:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
@@ -280,11 +368,43 @@
     "bonuses": []
   },
   {
+    "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-11-25T18:00:00.000",
+    "end": "2026-11-25T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Noibat Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-11-26T18:00:00.000",
+    "end": "2026-11-26T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
     "start": "2026-11-28T14:00:00.000",
     "end": "2026-11-28T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Twilight Wishes",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-11-24T10:00:00.000",
+    "end": "2026-11-30T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Cryogonal during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-11-30T06:00:00.000",
+    "end": "2026-11-30T21:00:00.000",
     "bonuses": []
   },
   {
@@ -301,6 +421,30 @@
     "category": "gbl",
     "start": "2026-11-24T21:00:00.000Z",
     "end": "2026-12-01T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-12-01T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-25T06:00:00.000",
+    "end": "2026-12-01T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Metagross in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-25T06:00:00.000",
+    "end": "2026-12-01T22:00:00.000",
     "bonuses": []
   },
   {
