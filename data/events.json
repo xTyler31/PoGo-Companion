@@ -1,37 +1,5 @@
 [
   {
-    "name": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-10-13T20:00:00.000Z",
-    "end": "2026-10-20T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon TCG: 30th Celebration",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-09-27T10:00:00.000",
-    "end": "2026-10-20T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Dialga in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-10-14T06:00:00.000",
-    "end": "2026-10-20T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Dragonite in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-10-14T06:00:00.000",
-    "end": "2026-10-20T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Palkia Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -412,6 +380,14 @@
     "type": "Season",
     "category": "season",
     "start": "2026-09-08T10:00:00.000",
+    "end": "2026-12-01T10:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "GO Pass: November",
+    "type": "GO Pass",
+    "category": "season",
+    "start": "2026-11-03T10:00:00.000",
     "end": "2026-12-01T10:00:00.000",
     "bonuses": []
   },
