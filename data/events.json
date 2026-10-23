@@ -1,13 +1,5 @@
 [
   {
-    "name": "Morelull Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-10-22T18:00:00.000",
-    "end": "2026-10-22T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
     "type": "Max Battles",
     "category": "max",
