@@ -1,37 +1,5 @@
 [
   {
-    "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "type": "Max Battles",
-    "category": "max",
-    "start": "2026-10-24T14:00:00.000",
-    "end": "2026-10-24T17:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Twitch Drops for Pokémon Night Out 2026",
-    "type": "Twitch Drops",
-    "category": "events",
-    "start": "2026-10-25T02:30:00.000Z",
-    "end": "2026-10-25T06:59:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon Night Out 2026 - Los Angeles",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-10-25T02:30:00.000Z",
-    "end": "2026-10-25T06:59:59.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Minior Showers: Orionids 2026",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-10-19T17:00:00.000",
-    "end": "2026-10-24T23:59:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Pokémon GO City Safari: Boston (Rescheduled)",
     "type": "City Safari",
     "category": "events",
@@ -240,7 +208,7 @@
     "bonuses": []
   },
   {
-    "name": "Max Monday: Pok��mon to be announced",
+    "name": "Max Monday: Pokémon to be announced",
     "type": "Max Mondays",
     "category": "events",
     "start": "2026-11-16T06:00:00.000",
