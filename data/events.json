@@ -1,29 +1,5 @@
 [
   {
-    "name": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-10-20T20:00:00.000Z",
-    "end": "2026-10-27T20:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Charizard X and Mega Charizard Y in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-10-21T06:00:00.000",
-    "end": "2026-10-27T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Palkia in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-10-21T06:00:00.000",
-    "end": "2026-10-27T22:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Giratina (Origin Forme) Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
