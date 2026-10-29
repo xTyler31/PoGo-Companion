@@ -1,13 +1,5 @@
 [
   {
-    "name": "Giratina (Origin Forme) Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-10-28T18:00:00.000",
-    "end": "2026-10-28T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Gastly Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
@@ -192,11 +184,27 @@
     "bonuses": []
   },
   {
+    "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-11-19T18:00:00.000",
+    "end": "2026-11-19T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Minior Showers: Leonids 2026",
     "type": "Event",
     "category": "events",
     "start": "2026-11-14T17:00:00.000",
     "end": "2026-11-19T23:59:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Eternamax Eternatus Returns",
+    "type": "Max Battles",
+    "category": "max",
+    "start": "2026-11-21T11:00:00.000",
+    "end": "2026-11-21T14:00:00.000",
     "bonuses": []
   },
   {
