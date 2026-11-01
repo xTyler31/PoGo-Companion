@@ -1,21 +1,5 @@
 [
   {
-    "name": "Chandelure Super Mega Raid Day",
-    "type": "Raid Day",
-    "category": "raid",
-    "start": "2026-10-31T14:00:00.000",
-    "end": "2026-10-31T17:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon GO Halloween 2026 Part I",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-10-27T10:00:00.000",
-    "end": "2026-11-01T10:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Dynamax Machop during Max Monday",
     "type": "Max Mondays",
     "category": "max",
@@ -344,7 +328,7 @@
     "bonuses": []
   },
   {
-    "name": "adidas × Pok��mon Timed Research",
+    "name": "adidas × Pokémon Timed Research",
     "type": "Research",
     "category": "research",
     "start": "2026-09-25T10:00:00.000",
