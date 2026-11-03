@@ -1,21 +1,5 @@
 [
   {
-    "name": "Dynamax Machop during Max Monday",
-    "type": "Max Mondays",
-    "category": "max",
-    "start": "2026-11-02T06:00:00.000",
-    "end": "2026-11-02T21:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "GO Pass: October",
-    "type": "GO Pass",
-    "category": "season",
-    "start": "2026-10-06T10:00:00.000",
-    "end": "2026-11-03T10:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
