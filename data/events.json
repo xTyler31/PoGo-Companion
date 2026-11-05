@@ -1,13 +1,5 @@
 [
   {
-    "name": "Giratina (Altered Forme) Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-11-04T18:00:00.000",
-    "end": "2026-11-04T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Teddiursa wearing a witch hat Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
