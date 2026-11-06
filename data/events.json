@@ -1,21 +1,5 @@
 [
   {
-    "name": "Teddiursa wearing a witch hat Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-11-05T18:00:00.000",
-    "end": "2026-11-05T19:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon GO Halloween 2026 Part II",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-11-01T10:00:00.000",
-    "end": "2026-11-05T20:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
     "type": "Wild Area",
     "category": "events",
@@ -85,6 +69,14 @@
     "category": "events",
     "start": "2026-11-14T10:00:00.000",
     "end": "2026-11-15T18:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "GO Wild Area: Gigantamax Machamp Power Up! Timed Research",
+    "type": "Timed Research",
+    "category": "research",
+    "start": "2026-11-06T10:00:00.000",
+    "end": "2026-11-15T23:59:00.000",
     "bonuses": []
   },
   {
@@ -200,7 +192,7 @@
     "bonuses": []
   },
   {
-    "name": "Super Mega Raid Day",
+    "name": "Clefable Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
     "start": "2026-11-28T14:00:00.000",
