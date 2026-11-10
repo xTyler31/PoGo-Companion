@@ -24,6 +24,14 @@
     "bonuses": []
   },
   {
+    "name": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-11-09T10:00:00.000",
+    "end": "2026-11-13T20:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Pokémon GO Wild Area 2026: Global",
     "type": "Wild Area",
     "category": "events",
@@ -224,6 +232,22 @@
     "bonuses": []
   },
   {
+    "name": "Max Battle Day",
+    "type": "Max Battles",
+    "category": "max",
+    "start": "2026-12-05T14:00:00.000",
+    "end": "2026-12-05T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "December Community Day",
+    "type": "Community Day",
+    "category": "community",
+    "start": "2026-12-12T14:00:00.000",
+    "end": "2026-12-13T17:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Minior Showers: Geminids 2026",
     "type": "Event",
     "category": "events",
@@ -232,11 +256,83 @@
     "bonuses": []
   },
   {
+    "name": "Raid Day",
+    "type": "Raid Day",
+    "category": "raid",
+    "start": "2026-12-19T14:00:00.000",
+    "end": "2026-12-19T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Hatch Day",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-12-26T11:00:00.000",
+    "end": "2026-12-26T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "January Community Day Classic",
+    "type": "Community Day",
+    "category": "community",
+    "start": "2027-01-02T14:00:00.000",
+    "end": "2027-01-02T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Super Mega Raid Day",
+    "type": "Raid Day",
+    "category": "raid",
+    "start": "2027-01-09T14:00:00.000",
+    "end": "2027-01-09T17:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "adidas × Pokémon Timed Research",
     "type": "Research",
     "category": "research",
     "start": "2026-09-25T10:00:00.000",
     "end": "2027-01-15T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "January Community Day",
+    "type": "Community Day",
+    "category": "community",
+    "start": "2027-01-16T14:00:00.000",
+    "end": "2027-01-16T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Max Battle Day",
+    "type": "Max Battles",
+    "category": "max",
+    "start": "2027-01-23T14:00:00.000",
+    "end": "2027-01-23T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Super Mega Raid Day",
+    "type": "Raid Day",
+    "category": "raid",
+    "start": "2027-01-30T14:00:00.000",
+    "end": "2027-01-30T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "February Community Day",
+    "type": "Community Day",
+    "category": "community",
+    "start": "2027-02-06T14:00:00.000",
+    "end": "2027-02-06T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Raid Day",
+    "type": "Raid Day",
+    "category": "raid",
+    "start": "2027-02-13T14:00:00.000",
+    "end": "2027-02-13T17:00:00.000",
     "bonuses": []
   },
   {
