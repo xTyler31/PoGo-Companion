@@ -1,21 +1,5 @@
 [
   {
-    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-11-03T21:00:00.000Z",
-    "end": "2026-11-10T21:00:00.000Z",
-    "bonuses": []
-  },
-  {
-    "name": "Pokémon Night Out 2026 - London",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-11-10T18:00:00.000Z",
-    "end": "2026-11-10T22:30:00.000Z",
-    "bonuses": []
-  },
-  {
     "name": "Into the Wild 2026",
     "type": "Event",
     "category": "events",
