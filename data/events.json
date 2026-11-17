@@ -1,13 +1,5 @@
 [
   {
-    "name": "[Canceled] Max Monday",
-    "type": "Max Mondays",
-    "category": "events",
-    "start": "2026-11-16T06:00:00.000",
-    "end": "2026-11-16T21:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
     "type": "GO Battle League",
     "category": "gbl",
@@ -221,6 +213,14 @@
     "category": "events",
     "start": "2026-12-26T11:00:00.000",
     "end": "2026-12-26T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Pokémon GO and Duolingo Timed Research",
+    "type": "Timed Research",
+    "category": "research",
+    "start": "2026-11-17T10:00:00.000",
+    "end": "2026-12-31T23:59:00.000",
     "bonuses": []
   },
   {
