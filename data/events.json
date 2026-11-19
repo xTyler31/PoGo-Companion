@@ -1,13 +1,5 @@
 [
   {
-    "name": "Cresselia and Darkrai Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-11-18T18:00:00.000",
-    "end": "2026-11-18T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
