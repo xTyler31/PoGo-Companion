@@ -1,21 +1,5 @@
 [
   {
-    "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-11-19T18:00:00.000",
-    "end": "2026-11-19T19:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Minior Showers: Leonids 2026",
-    "type": "Event",
-    "category": "events",
-    "start": "2026-11-14T17:00:00.000",
-    "end": "2026-11-19T23:59:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Eternamax Eternatus Returns",
     "type": "Max Battles",
     "category": "max",
@@ -29,6 +13,14 @@
     "category": "community",
     "start": "2026-11-21T14:00:00.000",
     "end": "2026-11-21T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Twitch Drops for 2027 Pokémon Latin America International Championships",
+    "type": "Twitch Drops",
+    "category": "events",
+    "start": "2026-11-20T12:00:00.000Z",
+    "end": "2026-11-22T23:00:00.000Z",
     "bonuses": []
   },
   {
