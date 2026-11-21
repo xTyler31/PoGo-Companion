@@ -1,13 +1,5 @@
 [
   {
-    "name": "Eternamax Eternatus Returns",
-    "type": "Max Battles",
-    "category": "max",
-    "start": "2026-11-21T11:00:00.000",
-    "end": "2026-11-21T14:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Pawniard Community Day",
     "type": "Community Day",
     "category": "community",
@@ -160,7 +152,7 @@
     "bonuses": []
   },
   {
-    "name": "December Community Day",
+    "name": "December Community Day 2026",
     "type": "Community Day",
     "category": "community",
     "start": "2026-12-12T14:00:00.000",
