@@ -1,13 +1,5 @@
 [
   {
-    "name": "Twitch Drops for 2027 Pokémon Latin America International Championships",
-    "type": "Twitch Drops",
-    "category": "events",
-    "start": "2026-11-20T12:00:00.000Z",
-    "end": "2026-11-22T23:00:00.000Z",
-    "bonuses": []
-  },
-  {
     "name": "Dynamax Trails",
     "type": "Event",
     "category": "max",
