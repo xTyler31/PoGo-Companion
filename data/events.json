@@ -1,29 +1,5 @@
 [
   {
-    "name": "Cresselia and Darkrai in 5-star Raid Battles",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-11-16T06:00:00.000",
-    "end": "2026-11-24T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Mega Banette in Mega Raids",
-    "type": "Raid Battles",
-    "category": "raid",
-    "start": "2026-11-16T06:00:00.000",
-    "end": "2026-11-24T22:00:00.000",
-    "bonuses": []
-  },
-  {
-    "name": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-11-18T21:00:00.000Z",
-    "end": "2026-11-25T21:00:00.000Z",
-    "bonuses": []
-  },
-  {
     "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
     "type": "Raid Hour",
     "category": "raid",
@@ -80,14 +56,6 @@
     "bonuses": []
   },
   {
-    "name": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
-    "type": "GO Battle League",
-    "category": "gbl",
-    "start": "2026-11-24T21:00:00.000Z",
-    "end": "2026-12-01T21:00:00.000Z",
-    "bonuses": []
-  },
-  {
     "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
     "type": "Raid Battles",
     "category": "raid",
@@ -112,11 +80,83 @@
     "bonuses": []
   },
   {
+    "name": "Regidrago Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-12-02T18:00:00.000",
+    "end": "2026-12-02T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Wimpod Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-12-03T18:00:00.000",
+    "end": "2026-12-03T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Max Battle Day",
     "type": "Max Battles",
     "category": "max",
     "start": "2026-12-05T14:00:00.000",
     "end": "2026-12-05T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Tropical Paradise",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-12-01T10:00:00.000",
+    "end": "2026-12-07T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Deino during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-12-07T06:00:00.000",
+    "end": "2026-12-07T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-12-01T21:00:00.000Z",
+    "end": "2026-12-08T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Slowbro in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-02T06:00:00.000",
+    "end": "2026-12-08T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Regidrago in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-02T06:00:00.000",
+    "end": "2026-12-08T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Unannounced Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-12-09T18:00:00.000",
+    "end": "2026-12-09T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Starly Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-12-10T18:00:00.000",
+    "end": "2026-12-10T19:00:00.000",
     "bonuses": []
   },
   {
@@ -128,11 +168,67 @@
     "bonuses": []
   },
   {
+    "name": "Unannounced Event",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-12-08T10:00:00.000",
+    "end": "2026-12-14T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Eevee during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-12-14T06:00:00.000",
+    "end": "2026-12-14T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-12-08T21:00:00.000Z",
+    "end": "2026-12-15T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Gengar in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-09T06:00:00.000",
+    "end": "2026-12-15T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Unannounced Pokémon in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-09T06:00:00.000",
+    "end": "2026-12-15T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Ho-Oh Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-12-16T18:00:00.000",
+    "end": "2026-12-16T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Minior Showers: Geminids 2026",
     "type": "Event",
     "category": "events",
     "start": "2026-12-11T17:00:00.000",
     "end": "2026-12-16T23:59:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Bergmite Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-12-17T18:00:00.000",
+    "end": "2026-12-17T19:00:00.000",
     "bonuses": []
   },
   {
@@ -144,11 +240,123 @@
     "bonuses": []
   },
   {
+    "name": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+    "type": "Choose Your Path",
+    "category": "events",
+    "start": "2026-12-15T10:00:00.000",
+    "end": "2026-12-21T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Alolan Sandshrew during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-12-21T06:00:00.000",
+    "end": "2026-12-21T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-12-15T21:00:00.000Z",
+    "end": "2026-12-22T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Ho-Oh in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-16T06:00:00.000",
+    "end": "2026-12-22T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Skarmory in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-16T06:00:00.000",
+    "end": "2026-12-22T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Lugia Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-12-23T18:00:00.000",
+    "end": "2026-12-23T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Delibird Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-12-24T18:00:00.000",
+    "end": "2026-12-24T19:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Hatch Day",
     "type": "Event",
     "category": "events",
     "start": "2026-12-26T11:00:00.000",
     "end": "2026-12-26T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Winter Holiday 2026",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-12-22T10:00:00.000",
+    "end": "2026-12-28T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Dynamax Magikarp during Max Monday",
+    "type": "Max Mondays",
+    "category": "max",
+    "start": "2026-12-28T06:00:00.000",
+    "end": "2026-12-28T21:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-12-22T21:00:00.000Z",
+    "end": "2026-12-29T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Lugia in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-23T06:00:00.000",
+    "end": "2026-12-29T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Glalie in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-23T06:00:00.000",
+    "end": "2026-12-29T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+    "type": "Raid Hour",
+    "category": "raid",
+    "start": "2026-12-30T18:00:00.000",
+    "end": "2026-12-30T19:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Plusle and Minun Spotlight Hour",
+    "type": "Pokémon Spotlight Hour",
+    "category": "spotlight",
+    "start": "2026-12-31T18:00:00.000",
+    "end": "2026-12-31T19:00:00.000",
     "bonuses": []
   },
   {
@@ -168,11 +376,67 @@
     "bonuses": []
   },
   {
+    "name": "New Year's 2027",
+    "type": "Event",
+    "category": "events",
+    "start": "2026-12-29T10:00:00.000",
+    "end": "2027-01-04T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "GO Pass: December",
+    "type": "GO Pass",
+    "category": "season",
+    "start": "2026-12-01T10:00:00.000",
+    "end": "2027-01-05T10:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2026-12-29T21:00:00.000Z",
+    "end": "2027-01-05T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Shadow Dialga in Shadow Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-02T06:00:00.000",
+    "end": "2027-01-05T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Mega Falinks in Mega Raids",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-30T06:00:00.000",
+    "end": "2027-01-05T22:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+    "type": "Raid Battles",
+    "category": "raid",
+    "start": "2026-12-30T06:00:00.000",
+    "end": "2027-01-05T22:00:00.000",
+    "bonuses": []
+  },
+  {
     "name": "Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
     "start": "2027-01-09T14:00:00.000",
     "end": "2027-01-09T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-01-05T21:00:00.000Z",
+    "end": "2027-01-12T21:00:00.000Z",
     "bonuses": []
   },
   {
@@ -192,11 +456,35 @@
     "bonuses": []
   },
   {
+    "name": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+    "type": "Choose Your Path",
+    "category": "events",
+    "start": "2027-01-12T10:00:00.000",
+    "end": "2027-01-18T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-01-12T21:00:00.000Z",
+    "end": "2027-01-19T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Max Battle Day",
     "type": "Max Battles",
     "category": "max",
     "start": "2027-01-23T14:00:00.000",
     "end": "2027-01-23T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Master League: Mega Edition and Master League | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-01-19T21:00:00.000Z",
+    "end": "2027-01-26T21:00:00.000Z",
     "bonuses": []
   },
   {
@@ -208,11 +496,35 @@
     "bonuses": []
   },
   {
+    "name": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+    "type": "Choose Your Path",
+    "category": "events",
+    "start": "2027-01-26T10:00:00.000",
+    "end": "2027-02-01T20:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-01-26T21:00:00.000Z",
+    "end": "2027-02-02T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "February Community Day",
     "type": "Community Day",
     "category": "community",
     "start": "2027-02-06T14:00:00.000",
     "end": "2027-02-06T17:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition and Master League | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-02-02T21:00:00.000Z",
+    "end": "2027-02-09T21:00:00.000Z",
     "bonuses": []
   },
   {
@@ -224,11 +536,27 @@
     "bonuses": []
   },
   {
+    "name": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-02-09T21:00:00.000Z",
+    "end": "2027-02-16T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Pokémon GO Tour: Alola - Kaohsiung 2027",
     "type": "Pokémon GO Tour",
     "category": "events",
     "start": "2027-02-18T16:00:00.000Z",
     "end": "2027-02-21T15:59:59.000Z",
+    "bonuses": []
+  },
+  {
+    "name": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+    "type": "Choose Your Path",
+    "category": "events",
+    "start": "2027-02-16T10:00:00.000",
+    "end": "2027-02-21T20:00:00.000",
     "bonuses": []
   },
   {
@@ -240,11 +568,35 @@
     "bonuses": []
   },
   {
+    "name": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-02-16T21:00:00.000Z",
+    "end": "2027-02-23T21:00:00.000Z",
+    "bonuses": []
+  },
+  {
     "name": "Pokémon GO Tour: Alola - Global 2027",
     "type": "Pokémon GO Tour",
     "category": "events",
     "start": "2027-02-27T00:00:00.000",
     "end": "2027-02-28T23:59:59.000",
+    "bonuses": []
+  },
+  {
+    "name": "Daydream Destinations",
+    "type": "Season",
+    "category": "season",
+    "start": "2026-12-01T10:00:00.000",
+    "end": "2027-03-01T10:00:00.000",
+    "bonuses": []
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+    "type": "GO Battle League",
+    "category": "gbl",
+    "start": "2027-02-23T21:00:00.000Z",
+    "end": "2027-03-02T21:00:00.000Z",
     "bonuses": []
   },
   {
