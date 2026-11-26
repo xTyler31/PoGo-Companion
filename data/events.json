@@ -1,13 +1,5 @@
 [
   {
-    "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
-    "type": "Raid Hour",
-    "category": "raid",
-    "start": "2026-11-25T18:00:00.000",
-    "end": "2026-11-25T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Noibat Spotlight Hour",
     "type": "Pokémon Spotlight Hour",
     "category": "spotlight",
@@ -96,7 +88,7 @@
     "bonuses": []
   },
   {
-    "name": "Max Battle Day",
+    "name": "Gigantamax Inteleon Max Battle Day",
     "type": "Max Battles",
     "category": "max",
     "start": "2026-12-05T14:00:00.000",
@@ -168,7 +160,7 @@
     "bonuses": []
   },
   {
-    "name": "Unannounced Event",
+    "name": "Pokémon Champions Celebration Event 2026",
     "type": "Event",
     "category": "events",
     "start": "2026-12-08T10:00:00.000",
@@ -200,7 +192,7 @@
     "bonuses": []
   },
   {
-    "name": "Unannounced Pokémon in 5-star Raid Battles",
+    "name": "Pokémon Champions Celebration 5-star Raid Battles",
     "type": "Raid Battles",
     "category": "raid",
     "start": "2026-12-09T06:00:00.000",
