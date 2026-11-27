@@ -1,13 +1,5 @@
 [
   {
-    "name": "Noibat Spotlight Hour",
-    "type": "Pokémon Spotlight Hour",
-    "category": "spotlight",
-    "start": "2026-11-26T18:00:00.000",
-    "end": "2026-11-26T19:00:00.000",
-    "bonuses": []
-  },
-  {
     "name": "Clefable Super Mega Raid Day",
     "type": "Raid Day",
     "category": "raid",
